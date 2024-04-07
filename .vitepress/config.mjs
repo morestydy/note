@@ -4,8 +4,19 @@ import { set_sidebar } from "../utils/auto-gen-sidebar.mjs";	// 改成自己的�
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/note/",
+  markdown: {
+    math: true,
+    container: {
+      abstract: '摘要',
+      warningLabel: '警告',
+      dangerLabel: '危险',
+      infoLabel: '信息',
+      detailsLabel: '详细信息'
+    },
+  },
+
   head: [['link', { rel: 'icon', href: 'logo.jpg'}]],
-  title: "My Awesome Project",
+  title: "我的学习笔记",
   description: "A VitePress Site",
   themeConfig: {
     outlineTitle: "文章目录",
@@ -15,12 +26,36 @@ export default defineConfig({
     nav: [
       { text: '家', items:[ //下拉框
         {text:'首页',link:'/'},
-        {text:'markdown示例',link:'markdown-examples.md'}
+        {text:'markdown示例',link:'markdown-examples.md'},
       ]},
-      { text: 'markdown示例', link: '/markdown-examples' },
+      {
+        text: '工具软件',items:[
+          {text:"Markdown",link:"/software/markdown-note"},
+          {text:'首页',link:'/'},
+        ]
+      },
+      {
+        text: '学习',items:[
+          {text:"化学",items: [
+            {text:"有机化学", link: "/chemistry/有机化学.md"},
+            {text:"others", link: "/chemistry/有机化学.md"}
+          ]},
+          // {text:'首页',link:'/'},
+        ]
+      },
+      {
+        text: '论文笔记',items:[
+          {text:"Stent",items: [
+            {text:"Review", link: "/Paper/Revirew/review.md"},
+            {text:"Medicine", link: "/Paper/Medicine/medicine.md"}
+          ]},
+          // {text:'首页',link:'/'},
+        ]
+      },
+
       { text: '自动生成侧边栏', link:'/front-end/react/'},
-      { text: '自动生成侧边栏2',link:'/backend/react/'},
-      { text: '两边栏演示', link:'/两边栏演示'}
+      // { text: '自动生成侧边栏2',link:'/backend/react/'},
+      // { text: '两边栏演示', link:'/两边栏演示'}
     ],
 
     // sidebar: [
