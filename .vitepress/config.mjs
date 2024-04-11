@@ -31,7 +31,7 @@ export default defineConfig({
       {
         text: '工具软件',items:[
           {text:"Markdown",link:"/software/markdown-note"},
-          {text:'首页',link:'/'},
+          {text:'常用软件',link:'/software/softwarebackup'},
         ]
       },
       {
