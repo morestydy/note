@@ -24,15 +24,46 @@
 - [坚果云](https://www.jianguoyun.com/) -- 文件同步备份
 - [万兴PDFelement](https://pdf.wondershare.cn/pdfelement/) --PDF文件处理软件
 - [IDM](https://idmchina.net/) --下载软件
+- [todesk](https://www.todesk.com/) --国产远程软件 
+- [uTools](https://www.u-tools.cn/) --uTools是一个极简、插件化、跨平台的现代化桌面软件。通过自由选配丰富的插件,打造你得心应手的工具集合
+- [downkyi](https://github.com/leiurayer/downkyi) --哔哩哔哩网站下载工具
+- [联想驱动管理](https://www.lanzoub.com/i0ZEi1utohob)
+- Adobe系列
+  - AI
+  - PS
+  - IN
+  - PR
+- [SumatraPDF](https://www.lanzoub.com/ia5uP1utohxa) -- 极小的PDF阅读器
+- [Chrome安装](https://github.com/leiurayer/downkyi)
+- [downkyi](https://github.com/leiurayer/downkyi) -- 哔哩哔哩视频下载工具
+- [IObit Uninstaller](https://www.lanzoub.com/iqRSU1uzumdc) - windows卸载工具
 # 学术类软件
-- EndNote --学术论文管理软件
+- [EndNote](https://github.com/leiurayer/downkyi) --学术论文管理软件
 - GraphPadPrism --各类统计分析图表和图形显示结果
+- LaTeX
+  - [TexLive](https://tug.org/texlive/)
+  - [TexStudio](https://github.com/texstudio-org/texstudio)  -- LaTeX编辑器。
+  - [Jabref](https://github.com/JabRef/jabref) -- 一个开源、跨平台的引文和参考管理工具
+- [MDI Jade](https://www.lanzoub.com/iiNIJ1utoeba) --  X射线衍射软件
+- ChemOffice -- 化学绘图工具
+
 
 # 配置与安装
 - [微PE](https://www.wepe.com.cn/) --制作PE启动盘
+## Windows 10 纯净安装
+
+1. 下载 [Rufus](https://rufus.ie/) 
+2. 下载 [Windows 10 操作系统镜像](https://msdn.itellyou.cn/)
+3. 使用Rufus工具将操作系统镜像写入到U盘中
+4. 关闭电脑
+5. 从U盘启动
+6. 开始安装
+7. 安装完毕
+8. 自行[激活](http://www.yishimei.cn/)
 
 
-
+**[⬆ 回到顶部](#应用程序)**
+<!-- 
 
 
 **Input**
@@ -111,7 +142,7 @@ This is a details block.
 
 ## More
 
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown). -->
 
 
 [OSS Icon]: /OSS.svg
