@@ -36,9 +36,10 @@ export default defineConfig({
       },
       {
         text: '学习',items:[
-          {text:"化学",items: [
-            {text:"有机化学", link: "/chemistry/有机化学.md"},
-            {text:"others", link: "/chemistry/有机化学.md"}
+          {text:"有机化学",items: [
+            {text:"绪论", link: "/chemistry/有机化学.md"},
+            {text:"lewis结构式", link: "/chemistry/Organic2.md"},
+            {text:"有机反应理论", link: "/chemistry/Organic3.md"}
           ]},
           // {text:'首页',link:'/'},
         ]
@@ -46,7 +47,7 @@ export default defineConfig({
       {
         text: '论文笔记',items:[
           {text:"Stent",items: [
-            {text:"Review", link: "/Paper/Revirew/review.md"},
+            {text:"Review", link: "/Paper/review/index.md"},
             {text:"Medicine", link: "/Paper/Medicine/medicine.md"}
           ]},
           // {text:'首页',link:'/'},
@@ -78,15 +79,27 @@ export default defineConfig({
     //   "/front-end/react": set_sidebar("/front-end/react"),
     //   "/backend/rabbitmq": set_sidebar("backend/rabbitmq"),
     // },
-
+    navbar: true, //开启导航栏，我设置成false也没啥用不知道为啥
     sidebar: false,// 关闭侧边栏
+    lastUpdated: {
+      text: '最后更新于',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'short'
+      }
+    }, // 显示上次修改时间
     aside: 'left',// 设置右侧侧边栏在左侧显示
     socialLinks: [
       { icon: 'github', link: 'https://github.com/morestydy' }
     ],
+    docFooter: {
+      prev: "上一页",
+      next: "下一页",
+    },
     footer:{
       copyright:"Copyright © 2023-present xufengr"
     },
+
        // 设置搜索框的样式
        search: {
         provider: "local",
