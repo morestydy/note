@@ -19,6 +19,7 @@ export default defineConfig({
   title: "我的学习笔记",
   description: "A VitePress Site",
   themeConfig: {
+
     outlineTitle: "文章目录",
     outline: [2,6], // 文章右边目录
     logo: 'docs.png',
@@ -54,9 +55,17 @@ export default defineConfig({
         ]
       },
 
-      { text: '自动生成侧边栏', link:'/front-end/react/'},
-      // { text: '自动生成侧边栏2',link:'/backend/react/'},
-      // { text: '两边栏演示', link:'/两边栏演示'}
+      {
+        text: "Python", items:[
+          {text:"基础语法", link: "/Coding/python.md"},
+          {text:"爬虫", link: "/Coding/spider.md"},
+          {text:"绘图", link: "/Coding/draw.md"},
+        ]
+      },
+
+      // { text: '自动生成侧边栏', link:'/front-end/react/'},
+      // // { text: '自动生成侧边栏2',link:'/backend/react/'},
+      // // { text: '两边栏演示', link:'/两边栏演示'}
     ],
 
     // sidebar: [
@@ -81,6 +90,7 @@ export default defineConfig({
     // },
     navbar: true, //开启导航栏，我设置成false也没啥用不知道为啥
     sidebar: false,// 关闭侧边栏
+    // lastUpdated: '最后更新时间：',
     lastUpdated: {
       text: '最后更新于',
       formatOptions: {
@@ -96,6 +106,8 @@ export default defineConfig({
       prev: "上一页",
       next: "下一页",
     },
+    smoothScroll: true,
+    // 页脚
     footer:{
       copyright:"Copyright © 2023-present xufengr"
     },
