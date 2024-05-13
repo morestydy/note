@@ -547,12 +547,12 @@ from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 import pandas as pd
 
-paper_data = pd.DataFrame(columns=['title','authors','doi',"abstract"])
+paper_data = pd.DataFrame(columns=['title','authors','time','publish','doi',"abstract"])
 
 url = 'https://pubmed.ncbi.nlm.nih.gov/'
-kw = 'lung cancer'
+kw = 'TIN2'
 fmt = 'abstract'
-for num in range(1,6):
+for num in range(1,20):
     response = requests.get(url,
                 params={'term':kw,
                         'page':str(num),
@@ -561,17 +561,27 @@ for num in range(1,6):
     response.raise_for_status() #防止没正确解析出现错误运行
     response.encoding = response.apparent_encoding # 防止乱码
 
-    # print(response.url)
+    print(response.url)
     soup = BeautifulSoup(response.text,'html.parser')
 
     paper_list = soup.find_all('div',attrs={"class":"results-article"})
     
     title = []
-
     paper_record = {}
     for paper in paper_list:
         article = paper.article
+        # find publisher
+        publish = article.find('button', attrs = {'class':'journal-actions-trigger trigger'})
+        paper_record['publish'] = ''.join(publish.string.strip())
+        print(''.join(publish.string.strip()))
+
+        time = article.find('span',attrs = {'class':'cit'})
+        paper_record['time'] = ''.join(time.string.strip())
+        # print(''.join(time))
+        print(time.string.strip())
+        
         titles = article.h1.a.strings
+  
         # strip函数用于删除头尾的空白符,包括\n\t等
         for s in titles:
             title.append(s.strip())
@@ -593,9 +603,9 @@ for num in range(1,6):
         doi = article.find('span',attrs={"class":"citation-doi"})
         if doi is None:
             paper_record['doi'] = 'No doi'
-        #     print(doi)
+            print(doi)
         else:
-        #     print(doi.string.strip())
+            print(doi.string.strip())
             paper_record['doi'] = doi.string.strip()
 
         # 获取摘要信息
@@ -611,9 +621,9 @@ for num in range(1,6):
                     abstract.append(sub_content.strip())
             # print('\n'.join(abstract))
             paper_record['abstract'] = ''.join(abstract)
-        paper_data = paper_data.append(paper_record,ignore_index=True)
+        paper_data = paper_data._append(paper_record,ignore_index=True)
 
 paper_data.to_excel('./paper.xlsx',index=False)
+
 ```
 
-**[⬆ 回到顶部](#1-爬虫)**

@@ -1,3 +1,5 @@
+
+
 ## 有机反应理论
 ### 电负性 偶极矩 杂化效应
 
@@ -21,7 +23,7 @@
 
    + F = 4.0(最大)
 
-     ![image-20240420172728933](/chemistry/assets/image-20240420172728933.png)
+     ![image-20240420172728933](./assets/image-20240420172728933.png)
 
    + 同周期内主族序数 $\to$ 核电荷数  $\to$ 层数不变 $\to$ 吸引力上升$\uparrow$ $\to$ $\chi\uparrow$ 
 
@@ -35,17 +37,17 @@
 
    假设:分子化学键的两端平均分布着电子$e^-$
 
-   <img src="/chemistry/assets/image-20240420174505398.png" alt="image-20240420174505398" style="zoom:50%;" />
+   <img src="./assets/image-20240420174505398.png" alt="image-20240420174505398" style="zoom:50%;" />
 
    如果分子化学键两端e分布不均匀
 
-   ​				<img src="/chemistry/assets/image-20240420174526162.png" alt="image-20240420174526162" style="zoom:50%;" />
+   ​				<img src="./assets/image-20240420174526162.png" alt="image-20240420174526162" style="zoom:50%;" />
 
    + 部分电荷中心: 
 
-     <img src="/chemistry/assets/image-20240420174708410.png" alt="image-20240420174708410" style="zoom:67%;" />
+     <img src="./assets/image-20240420174708410.png" alt="image-20240420174708410" style="zoom:67%;" />
 
-     eg1: <img src="/chemistry/assets/image-20240420174753296.png" alt="image-20240420174753296" style="zoom:33%; display: inline;" /> CH键的电负性差异小，不考虑
+     eg1: <img src="./assets/image-20240420174753296.png" alt="image-20240420174753296" style="zoom:33%; display: inline;" /> CH键的电负性差异小，不考虑
 
      eg2: $\ce{CH3-OH}$ 由于$\chi_O>\chi_C$, O 更倾向于拉到"键" $\to$ $\rho_0>\rho_C \to \rho_0(\delta^-)>\rho_C(\delta^+)$ 
 
@@ -73,7 +75,7 @@
 
      eg: $\ce{A(\delta^+)-B(\delta^-)}$ 
 
-     <img src="/chemistry/assets/image-20240421154544039.png" alt="image-20240421154544039" style="zoom:67%;" />
+     <img src="./assets/image-20240421154544039.png" alt="image-20240421154544039" style="zoom:67%;" />
 
    + 衡量该分子是否为极性分子:
      $$
@@ -85,7 +87,7 @@
      $$
      eg: 顺反式二氯甲烷 
 
-     <img src="/chemistry/assets/image-20240421155006742.png" alt="image-20240421155006742" style="zoom:67%;" />
+     <img src="./assets/image-20240421155006742.png" alt="image-20240421155006742" style="zoom:67%;" />
 
 
 ### 有机反应理论本质
@@ -107,19 +109,19 @@
 
   + 乙烯
 
-    ![image-20240421220707473](/chemistry/assets/image-20240421220707473.png)
+    ![image-20240421220707473](./assets/image-20240421220707473.png)
 
   + 甲醛
 
-    ![image-20240421220827357](/chemistry/assets/image-20240421220827357.png)
+    ![image-20240421220827357](./assets/image-20240421220827357.png)
 
 ### 亲核试剂(Nu:) 亲电试剂($E^\oplus$)
 
-<img src="/chemistry/assets/image-20240421221431802.png" alt="image-20240421221431802" style="zoom:50%;" /><img src="/chemistry/assets/image-20240422145318995.png" alt="image-20240422145318995" style="zoom: 80%;" />
+<img src="./assets/image-20240421221431802.png" alt="image-20240421221431802" style="zoom:50%;" /><img src="./assets/image-20240422145318995.png" alt="image-20240422145318995" style="zoom: 80%;" />
 
 分子轨道理论的观点: 氧的sp3轨道的成键电子对 重叠到HCHO中空的$\pi^*_{C=O}$上,形成新轨道
 
-<img src="/chemistry/assets/image-20240422153927680.png" alt="image-20240422153927680" style="zoom:67%;" />
+<img src="./assets/image-20240422153927680.png" alt="image-20240422153927680" style="zoom:67%;" />
 
 乙烯有有一个$\pi_{c-c}$成键轨道, Br-Br有成键的$\sigma$和空$\sigma^*$轨道, 电子从满的$\pi_{c-c}$轨道到空的$\sigma^*_{Br-Br}$, 导致Br单键的断裂形成一个溴鎓离子和$\ce{Br^\ominus}$,
 
@@ -130,29 +132,29 @@
 
 水的sp3轨道的孤对电子填充$\pi^*_\ce{C-O}$轨道
 
-![image-20240421223006951](/chemistry/assets/image-20240421223006951.png)
+![image-20240421223006951](./assets/image-20240421223006951.png)
 
-![image-20240421223133454](/chemistry/assets/image-20240421223133454.png)
+![image-20240421223133454](./assets/image-20240421223133454.png)
 
 $\begin{cases}\text{curly arrow }弯曲箭头:电子云流动 \text{electron movement}\\\text{straight arrow} 直箭头: 反应方向\text{Rxn arrow}\end{cases}$
 
 
 
-<img src="/chemistry/assets/image-20240422162842588.png" alt="image-20240422162842588" style="zoom:33%; display:inline;" />
+<img src="./assets/image-20240422162842588.png" alt="image-20240422162842588" style="zoom:33%; display:inline;" />
 
 
 
-<img src="/chemistry/assets/image-20240422163604546.png" alt="image-20240422163604546" style="zoom:50%;" />
+<img src="./assets/image-20240422163604546.png" alt="image-20240422163604546" style="zoom:50%;" />
 $\ce{NH3}$含有一对孤电子对, 填充到$\ce{BH3}$的空2p轨道, 形成一个$\sigma$键:$\sigma_{B-H}$和$\sigma*_{B-H}$轨道, $\sigma_{B-H}$填充一对电子:
-<br><img src="/chemistry/assets/image-20240422164321711.png" alt="image-20240422164321711" style="zoom:67%;" />
+<br><img src="./assets/image-20240422164321711.png" alt="image-20240422164321711" style="zoom:67%;" />
 
 
 
 review:
 
-​	<img src="/chemistry/assets/image-20240422172420878.png" alt="image-20240422172420878" style="zoom:67%;" />
+​	<img src="./assets/image-20240422172420878.png" alt="image-20240422172420878" style="zoom:67%;" />
 
-<img src="/chemistry/assets/image-20240422172724951.png" alt="image-20240422172724951" style="zoom:50%;" />
+<img src="./assets/image-20240422172724951.png" alt="image-20240422172724951" style="zoom:50%;" />
 
 如图, 如果E和Nu的能量相近, 那么能够获得更大的能量差, 反应更趋于形成; $\delta_{E'}增大\to\delta E\downarrow\to\text{反应更不倾向发生}$
 
@@ -165,7 +167,7 @@ review:
 
 根据前面,只有$\ce{Nu:}$的最高占据轨道与$\ce{E^\oplus}$的最低未占据轨道的**$\Delta E'$**最小, 即形成新的轨道越稳定==>最好的反应.如图:
 
-<img src="/chemistry/assets/image-20240422174115450.png" alt="image-20240422174115450" style="zoom:50%;" />
+<img src="./assets/image-20240422174115450.png" alt="image-20240422174115450" style="zoom:50%;" />
 
 ::: tip 重要
 其他的轨道都可忽略, 即前线轨道
@@ -187,7 +189,7 @@ $$
 
      eg:
 
-     <img src="/chemistry/assets/image-20240423021900602.png" alt="image-20240423021900602" style="zoom: 67%;" />![image-20240423021921997](./assets/image-20240423021921997.png)
+     <img src="./assets/image-20240423021900602.png" alt="image-20240423021900602" style="zoom: 67%;" />![image-20240423021921997](./assets/image-20240423021921997.png)
 
      HOMO:sp3
 
@@ -195,7 +197,7 @@ $$
 
      eg:
 
-     <img src="/chemistry/assets/image-20240423022322235.png" alt="image-20240423022322235" style="zoom:50%;" />
+     <img src="./assets/image-20240423022322235.png" alt="image-20240423022322235" style="zoom:50%;" />
 
      Br HOMO : 4p
 
@@ -206,9 +208,9 @@ $$
      C-金属 键(格氏试剂)
 
      eg: 
-     <img src="/chemistry/assets/image-20240423023623608.png" alt="image-20240423023623608" style="zoom:50%; display:inline;" />![image-20240423024406796](./assets/image-20240423024406796.png)<img src="/chemistry/assets/image-20240423024331784.png" alt="image-20240423024331784" style="zoom:50%;" />
+     <img src="./assets/image-20240423023623608.png" alt="image-20240423023623608" style="zoom:50%; display:inline;" />![image-20240423024406796](./assets/image-20240423024406796.png)<img src="./assets/image-20240423024331784.png" alt="image-20240423024331784" style="zoom:50%;" />
 
- <img src="/chemistry/assets/image-20240423024437222.png" alt="image-20240423024437222" style="zoom:67%;" />
+ <img src="./assets/image-20240423024437222.png" alt="image-20240423024437222" style="zoom:67%;" />
 
 **起点是Nu:HOMO的位置**
 3. 亲电试剂 $E^\oplus$
@@ -218,14 +220,14 @@ $$
    + 有空轨道
 
      eg:
-     <img src="/chemistry/assets/image-20240423024829752.png" alt="image-20240423024829752" style="zoom: 67%; display:inline;" /><img src="/chemistry/assets/image-20240423024917298.png" alt="image-20240423024917298" style="zoom:67%; display:inline;" />
+     <img src="./assets/image-20240423024829752.png" alt="image-20240423024829752" style="zoom: 67%; display:inline;" /><img src="./assets/image-20240423024917298.png" alt="image-20240423024917298" style="zoom:67%; display:inline;" />
 
      LUMO=H 1s
 
      缺电子体系
 
      eg:
-     <img src="/chemistry/assets/image-20240423025144804.png" alt="image-20240423025144804" style="zoom:50%; display:inline;" /><img src="/chemistry/assets/image-20240423025201858.png" alt="image-20240423025201858" style="zoom:50%; display:inline;" />
+     <img src="./assets/image-20240423025144804.png" alt="image-20240423025144804" style="zoom:50%; display:inline;" /><img src="./assets/image-20240423025201858.png" alt="image-20240423025201858" style="zoom:50%; display:inline;" />
 
      空p轨道
 
@@ -233,15 +235,15 @@ $$
 
    + 强极性 $\pi$体系可作为亲电试剂
 
-     <img src="/chemistry/assets/image-20240423025750762.png" alt="image-20240423025750762" style="zoom: 67%;" /><img src="./assets/image-20240423025936472.png" alt="image-20240423025936472" style="zoom:50%;" />
+     <img src="./assets/image-20240423025750762.png" alt="image-20240423025750762" style="zoom: 67%;" /><img src="./assets/image-20240423025936472.png" alt="image-20240423025936472" style="zoom:50%;" />
 
    + 单键连一个电负性大的原子可作为 $E^\oplus$
 
-     eg: <img src="/chemistry/assets/image-20240423030132827.png" alt="image-20240423030132827" style="zoom:33%;" /><img src="./assets/image-20240423030645850.png" alt="image-20240423030645850" style="zoom:33%;" /><br><img src="/chemistry/assets/image-20240423030152017.png" alt="image-20240423030152017" style="zoom:50%;" />
+     eg: <img src="./assets/image-20240423030132827.png" alt="image-20240423030132827" style="zoom:33%;" /><img src="./assets/image-20240423030645850.png" alt="image-20240423030645850" style="zoom:33%;" /><br><img src="./assets/image-20240423030152017.png" alt="image-20240423030152017" style="zoom:50%;" />
 
      卤素的电负性大, 其LUMO是Br-Br的$\sigma^*$
 
-<img src="/chemistry/assets/image-20240423031356345.png" alt="image-20240423031356345" style="zoom:67%;" />
+<img src="./assets/image-20240423031356345.png" alt="image-20240423031356345" style="zoom:67%;" />
 
 **终点表示电子的流向**
 
@@ -276,7 +278,7 @@ LUMO:最低空轨道($E^\oplus$)
    LUMO: 空轨道
 
 2. 强极性\pi体系
-<img src="/chemistry/assets/image-20240423032736397.png" alt="image-20240423032736397" style="zoom:33%; display:inline;" />
+<img src="./assets/image-20240423032736397.png" alt="image-20240423032736397" style="zoom:33%; display:inline;" />
 
    LUMO: $\ce{\pi^*_{C-O}}, \ce{\pi^*_{N-H}}$
 
@@ -287,25 +289,28 @@ LUMO:最低空轨道($E^\oplus$)
 :::
 
 
-<img src="/chemistry/assets/image-20240423030535541.png" alt="image-20240423030535541" style="zoom:67%;" />
+<img src="./assets/image-20240423030535541.png" alt="image-20240423030535541" style="zoom:67%;" />
 
 
 ### 有机反应机理
 
-<img src="/chemistry/assets/image-20240423142530868.png" alt="image-20240423142530868" style="zoom:50%;" />
+<img src="./assets/image-20240423142530868.png" alt="image-20240423142530868" style="zoom:50%;" />
 
 1. 硝酸, 硝酸根, 硝基, 亚硝酸, 亚硝酸根, 亚硝基的lewis结构式
 
-   <img src="/chemistry/assets/image-20240423144529855.png" alt="image-20240423144529855" style="zoom:50%;" />
+   <img src="./assets/image-20240423144529855.png" alt="image-20240423144529855" style="zoom:50%;" />
 
 2. HPO3的结构式 
 
-​	P在第三周期, 3s3p3d可以满足18个e, 故<img src="/chemistry/assets/image-20240423150337026.png" alt="image-20240423150337026" style="zoom:33%;" />,P能够充满10个e
+​	P在第三周期, 3s3p3d可以满足18个e, 故<img src="./assets/image-20240423150337026.png" alt="image-20240423150337026" style="zoom:33%;" />,P能够充满10个e
 
 3. 箭头代表轨道重叠的过程
 
-   <img src="/chemistry/assets/image-20240424010613350.png" alt="image-20240424010613350" style="zoom:50%;" />
+   <img src="./assets/image-20240424010613350.png" alt="image-20240424010613350" style="zoom:50%;" />
 
    eg1: 以H3O+\overset{\oplus}{O}H \to H2O为例
 
-   <img src="/chemistry/assets/image-20240424010957389.png" alt="image-20240424010957389" style="zoom:50%;" />
+   <img src="./assets/image-20240424010957389.png" alt="image-20240424010957389" style="zoom:50%;" />
+
+
+

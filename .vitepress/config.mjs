@@ -1,8 +1,12 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
 import { set_sidebar } from "../utils/auto-gen-sidebar.mjs";	// 改成自己的路径
+// import { backToTopPlugin } from '@vuepress/plugin-back-to-top';
+import { withMermaid } from "vitepress-plugin-mermaid";
+
+
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default withMermaid({
   // base: "/note/",
   markdown: {
     math: true,
@@ -14,6 +18,17 @@ export default defineConfig({
       detailsLabel: '详细信息'
     },
   },
+  mermaid: {
+    // refer https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options
+  },
+ mermaidPlugin: {
+    class: "mermaid my-class", // set additional css classes for parent container
+  },
+
+  // vue: {
+  //   // @vitejs/plugin-vue 选项
+  //   plugins: [backToTopPlugin()],
+  // },
 
   head: [['link', { rel: 'icon', href: 'logo.jpg'}]],
   title: "我的学习笔记",
@@ -31,25 +46,27 @@ export default defineConfig({
       ]},
       {
         text: '工具软件',items:[
-          {text:"Markdown",link:"/software/markdown-note"},
-          {text:'常用软件',link:'/software/softwarebackup'},
+          {text:"Markdown",link:"/docs/software/markdown-note"},
+          {text:'常用软件',link:'/docs/software/softwarebackup'},
+          {text:"vitepress插件", link:"/docs/software/plugins"},
         ]
       },
       {
         text: '学习',items:[
           {text:"有机化学",items: [
-            {text:"绪论", link: "/chemistry/有机化学.md"},
-            {text:"lewis结构式", link: "/chemistry/Organic2.md"},
-            {text:"有机反应理论", link: "/chemistry/Organic3.md"}
+            {text:"绪论", link: "/docs/chemistry/有机化学.md"},
+            {text:"lewis结构式", link: "/docs/chemistry/Organic2.md"},
+            {text:"有机反应理论", link: "/docs/chemistry/Organic3.md"}
           ]},
           // {text:'首页',link:'/'},
         ]
       },
       {
-        text: '论文笔记',items:[
-          {text:"Stent",items: [
-            {text:"Review", link: "/Paper/review/index.md"},
-            {text:"Medicine", link: "/Paper/Medicine/medicine.md"}
+        text: 'Stent',items:[
+          {text:"Review",items: [
+            {text:"Review", link: "/docs/Paper/review/index.md"},
+            {text:"Polymers", link: "docs/Paper/review/polymer.md"}
+
           ]},
           // {text:'首页',link:'/'},
         ]
@@ -57,9 +74,9 @@ export default defineConfig({
 
       {
         text: "Python", items:[
-          {text:"基础语法", link: "/Coding/python.md"},
-          {text:"爬虫", link: "/Coding/spider.md"},
-          {text:"绘图", link: "/Coding/draw.md"},
+          {text:"基础语法", link: "/docsCoding/python.md"},
+          {text:"爬虫", link: "/docs/Coding/spider.md"},
+          {text:"绘图", link: "/docs/Coding/draw.md"},
         ]
       },
 
