@@ -49,6 +49,11 @@ export default withMermaid({
           {text:"Markdown",link:"/docs/software/markdown-note"},
           {text:'常用软件',link:'/docs/software/softwarebackup'},
           {text:"vitepress插件", link:"/docs/software/plugins"},
+          {text:"LaTeX相关", items:[
+            {text: 'LaTex安装',  link:"/docs/software/latexl"},
+            {text: 'LaTex表图',  link:"/docs/software/latextable"},
+            {text: 'LaTex其他小知识',  link:"/docs/software/others"},
+          ]},
         ]
       },
       {
@@ -66,7 +71,10 @@ export default withMermaid({
           {text:"Review",items: [
             {text:"Review", link: "/docs/Paper/review/index.md"},
             {text:"Polymers", link: "docs/Paper/review/polymer.md"}
-
+          ]},
+          {text:"Research",items: [
+            {text:"TOC", link: "docs/Paper/research/index.md"},
+            {text:"Polymers", link: "docs/Paper/research/stent.md"}
           ]},
           // {text:'首页',link:'/'},
         ]
