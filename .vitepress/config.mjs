@@ -17,6 +17,10 @@ export default withMermaid({
       infoLabel: '信息',
       detailsLabel: '详细信息'
     },
+    image: {
+      // 默认禁用；设置为 true 可为所有图片启用懒加载。
+      lazyLoading: true
+    },
   },
   mermaid: {
     // refer https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options
@@ -46,6 +50,7 @@ export default withMermaid({
       ]},
       {
         text: '工具软件',items:[
+          {text:"bat脚本编写", link: "/docs/Coding/batscript.md"},
           {text:"Markdown",link:"/docs/software/markdown-note"},
           {text:'常用软件',link:'/docs/software/softwarebackup'},
           {text:"vitepress插件", link:"/docs/software/plugins"},
@@ -68,6 +73,7 @@ export default withMermaid({
       },
       {
         text: 'Stent',items:[
+
           {text:"Review",items: [
             {text:"Review", link: "/docs/Paper/review/index.md"},
             {text:"Polymers", link: "docs/Paper/review/polymer.md"}
@@ -82,7 +88,7 @@ export default withMermaid({
 
       {
         text: "Python", items:[
-          {text:"基础语法", link: "/docsCoding/python.md"},
+          {text:"基础语法", link: "/docs/Coding/python.md"},
           {text:"爬虫", link: "/docs/Coding/spider.md"},
           {text:"绘图", link: "/docs/Coding/draw.md"},
         ]
