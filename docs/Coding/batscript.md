@@ -230,3 +230,69 @@ FOR [/D/R/L/F] %%variable IN (set) DO (
 `command` 和 `command-parameters` ： 指定对每个文件执行的命令，和为特定命令指定参数或命令行开关。
 
 如果启用命令扩展，则会支持下列 FOR 命令的其他格式:
+
+#### /D
+```bat
+FOR /D %%variable IN (set) DO command [command-parameters]
+```
+
+如果集中包含通配符，则指定与目录名匹配，而不与文件名匹配。
+#### /R
+```bat
+FOR /R [[drive:]path] %%variable IN (set) DO command [command-parameters]
+```   
+进入以 [drive:]path 为根的目录树，在其下的每个子目录中执行 FOR 语句。 如果在 /R 后没有指定目录，则在当前目录的每个子目录中执行 FOR 语句。如果集仅为一个单点(.)字符， 则枚举该目录树。
+
+#### /L
+```bat
+FOR /L %%variable IN (start,step,end) DO command [command-parameters]
+```
+#### /F
+该集表示以增量形式从 start 到 不超过 end 的一个数字序列，从而控制循环次数。例如， (1,2,6) 将产生序列 1 3 5，从而循环三次。 (5,-1,1) 将产生序列 (5 4 3 2 1)
+
+```bat
+FOR /F ["options"] %%variable IN (file-set) DO command [command-parameters]
+FOR /F ["options"] %%variable IN ("string") DO command [command-parameters]
+FOR /F ["options"] %%variable IN ('command') DO command [command-parameters]
+```
+含开关/F的for语句具有最强大的功能，它能够对字符串进行操作，也能够对命令的返回值进行操作，还可以操作硬盘上的文件。
+
+当集为单个文件时，执行时会读取文件每一非空白行的内容到遍历变量中。
+`[options]` 提供了更实用的选项，其必须用引号括起来，并有以下常用选项：
++ `eol=c` 当某一行以指定的符号开始时就忽略这一行。
+
++ `delims=xxx` 指定分隔符。默认分隔符为空格和制表符，这时默认只取分隔之后的第一个元素。
+
++ `tokens= x | x,y | m-n` 指定分隔之后取哪些元素,支持通配符。例如： `"tokens=2"` ，取第二个元素。 `"tokens=2,3"` ，取第二个和第三个元素。`"tokens=2-10" `，取第二个到第十个元素。当有多个元素被选取时，用遍历参数后续的单个字母来依次表示后续元素。比如：`FOR /F "TOKENS=1-5 DELIMS= " %%A IN ("1 2 3 4 5") DO ECHO %%A %%B %%C %%D %%E` ，这里的遍历参数使用的单个字母 A ，当以空格分隔，取1-5个元素时，分别用 `%%A %%B %%C ···` 来依次表示后续元素，所以这里最多只能指定26个元素。注意：代表后续元素的单个字母必须与遍历参数的大小写一致 ，否则不能生效。
+
+#### 常用语句
+遍历当前文件夹下的所有文件：
+遍历当前文件夹下的所有文件：
+```bat
+FOR %I IN (%CD%\*) DO @ECHO %I
+```
+遍历当前文件夹下的所有文件夹：
+```bat
+FOR /D %I IN (%CD%\*) DO @ECHO %I
+```
+遍历当前文件夹下的所有文件及所有子文件夹下的所有文件：
+```bat
+FOR /R "%CD%" %I IN (*) DO @ECHO %I`
+```
+#### 遍历参数处理
+和第一部分中的传入参数一样， FOR 的遍历参数也可以被处理，含义和用法均一样。
+
+#### 函数
+bat中可以使用 CALL 关键词调用函数，而函数的写法如下：
+```bat
+:tee
+ECHO %*
+EXIT /B 0
+```
+`:tee` 是函数名，`EXIT /B 0` 作用是返回 0 ，目前还不允许返回非数值的返回值。在函数中同样适用 `%number` 来表示参数，从 `%1 ~ %9` 表示第一个到第九个参数，当然也支持通配符。
+
+调用时则是 `CALL :tee "Hello world"` ，这里的 `"Hello world"` 为传入函数的参数。同样，我们也可以使用 `%ERRORLEVEL%`来得到函数的返回值。
+
+## 后记
+脚本语言的优势就是编写方便，而且不需要编译即可运行，但是效率不高，可以用来代替一些重复性的基础工作。bat脚本的使用还是很简单的，前提是熟悉 DOS 命令，所以这里再给大家分享一个网址： [DOS命令详解](https://www.feiesoft.com/windows/cmd/)
+

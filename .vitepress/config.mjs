@@ -73,7 +73,7 @@ export default withMermaid({
       },
       {
         text: 'Stent',items:[
-
+          {text:"中英文对照表",link:"docs/Paper/en-zh-bilingual.md"},
           {text:"Review",items: [
             {text:"Review", link: "/docs/Paper/review/index.md"},
             {text:"Polymers", link: "docs/Paper/review/polymer.md"}
