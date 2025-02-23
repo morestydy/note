@@ -87,12 +87,22 @@ export default withMermaid({
       },
 
       {
-        text: "Python", items:[
+        text: "编程基础",items:[
+          // {text:"R", link: "docs/Coding/Rbasis.md"},
+          {text:"R", items:[
+            {text:"基础语法", link: "/docs/Coding/Rbasis.md"},
+            {text:"统计分析", link: "/docs/Coding/Rstat.md"},
+          ]},
+          {text: "Python", items:[
           {text:"基础语法", link: "/docs/Coding/python.md"},
           {text:"爬虫", link: "/docs/Coding/spider.md"},
           {text:"绘图", link: "/docs/Coding/draw.md"},
+        ]},
+
         ]
+      
       },
+      
 
       // { text: '自动生成侧边栏', link:'/front-end/react/'},
       // // { text: '自动生成侧边栏2',link:'/backend/react/'},
