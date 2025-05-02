@@ -82,6 +82,10 @@ export default withMermaid({
             {text:"TOC", link: "docs/Paper/research/index.md"},
             {text:"Polymers", link: "docs/Paper/research/stent.md"}
           ]},
+          {text:"临床试验",items: [
+            {text:"NeoVas", link: "/docs/Paper/trials/NeoVas.md"},
+            {text:"Polymers", link: "docs/Paper/research/stent.md"}
+          ]},
           // {text:'首页',link:'/'},
         ]
       },
