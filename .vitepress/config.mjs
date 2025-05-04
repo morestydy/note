@@ -56,6 +56,7 @@ export default withMermaid({
           {text:"vitepress插件", link:"/docs/software/plugins"},
           {text:"LaTeX相关", items:[
             {text: 'LaTex安装',  link:"/docs/software/latexl"},
+            {text: '参考文献',  link:"/docs/software/reference"},
             {text: 'LaTex表图',  link:"/docs/software/latextable"},
             {text: 'LaTex其他小知识',  link:"/docs/software/others"},
           ]},
