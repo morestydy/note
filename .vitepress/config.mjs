@@ -21,6 +21,7 @@ export default withMermaid({
       // 默认禁用；设置为 true 可为所有图片启用懒加载。
       lazyLoading: true
     },
+    lineNumbers: true,
   },
   mermaid: {
     // refer https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options

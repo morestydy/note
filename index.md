@@ -4,10 +4,10 @@ layout: home
 
 hero:
   name: "Xufengr"
-  text: "在线文档"
-  tagline: My great project tagline
+  text: "我的知识库"
+  tagline: 好记性不如烂笔头
   image: 
-      src: 'background.svg'
+      src: 'background1.svg'
       alt: 背景图片
   actions:
     - theme: brand
@@ -18,11 +18,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 💡 Feature A 
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: 🎵 Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: 📖 Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
