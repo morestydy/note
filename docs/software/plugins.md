@@ -42,3 +42,21 @@ import { withMermaid } from "vitepress-plugin-mermaid";
 ```
 
 可以访问[插件官网](https://emersonbottero.github.io/vitepress-plugin-mermaid/guide/getting-started.html)和[mermaid官网](https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options)获取更多配置信息
+
+
+## 数学公式
+
+1. install
+---
+
+```bash
+npm i vitepress-plugin-mathjax -D
+```
+::: code-group
+```ts [.vitepress/config.ts]
+export default {
+  markdown: {
+    math: true
+  }
+}
+```

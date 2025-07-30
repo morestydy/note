@@ -71,6 +71,11 @@ export default withMermaid({
             {text:"有机反应理论", link: "/docs/chemistry/Organic3.md"}
           ]},
           // {text:'首页',link:'/'},
+            {text:"电生理",items: [
+            {text:"心脏解剖", link: "docs/electrophysiology/Cardiac-Anatomy.md"},
+            {text:"基础心电图", link: "docs/electrophysiology/Cardiogram.md"},
+            {text:"心律失常", link: "docs/electrophysiology/Aarrhythmia.md"}
+          ]},
         ]
       },
       {

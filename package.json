@@ -2,9 +2,9 @@
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "2.0.0-rc.27",
     "markdown-it-mathjax3": "^4.3.2",
-    "mermaid": "^10.9.0",
+    "mermaid": "^10.9.3",
     "vitepress": "^1.0.2",
-    "vitepress-plugin-mermaid": "^2.0.16"
+    "vitepress-plugin-mermaid": "^2.0.17"
   },
   "scripts": {
     "docs:dev": "vitepress dev",
