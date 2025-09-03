@@ -1,7 +1,8 @@
 # 左心耳
 
 
-不同类型的左心耳封堵器械[^1]
+[微信公众号-不同类型的左心耳封堵器械](https://mp.weixin.qq.com/s/hGfgDCvVlJAnhB6gO7pKHQ)
+
 
 
 ![alt text](./assets/image_LAA.png)
@@ -282,4 +283,3 @@ Occlutech公司左心耳封堵装置（Occlutech LAA occlusion device）采用�
 
 
 
-[^1]:[微信公众号-不同类型的左心耳封堵器械](https://mp.weixin.qq.com/s/hGfgDCvVlJAnhB6gO7pKHQ)
