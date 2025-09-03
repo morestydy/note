@@ -181,7 +181,7 @@ LACbes 左心耳封堵器是我国自行设计研究开发的双盘式结构左�
 ### LAMax封堵器
 ![alt text](./assets/image_LAMax.png)![alt text](./assets/image_LAMax1.png)
 信立泰旗下子公司自主研发的LAMax封堵器系统使用全镍钛合金金属材质，具有MRI兼容、高耐腐蚀性能、收放自如且锚定稳固，以及器械血栓概率低等多项优点。该产品于2022年6月获NMPA批准上市。
-![alt text](./assets/image_LAMax3.png)
+![alt text](./assets/image_image_LAMax3.png)
 
 结构设计
 
