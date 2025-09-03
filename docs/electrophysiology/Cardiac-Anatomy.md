@@ -74,7 +74,7 @@ Koch三角底部冠状静脉窦，前面三尖瓣环，界脊、欧氏脊组成�
 ## 电生理特性
  + 自律性
 
-<img src="./assets/image_ART.png" alt="alt text" width="66%" />
+<img src="./assets/image_art.png" alt="alt text" width="66%" />
 
 + 传导性
 
