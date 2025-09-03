@@ -277,7 +277,7 @@ Occlutech公司左心耳封堵装置（Occlutech LAA occlusion device）采用�
 经导管补片装置（Transcatheter Patch device）用于封堵心脏缺损，该装置由聚氨酯泡沫（polyurethane foam）制成。使用稀释造影剂充盈支撑球囊，使其扩张直径可达15至25 mm。补片底端缝制有一个2 mm的尼龙环（nylon loop），并连接双股尼龙线，用于装置回收。
 
 
-![alt text](./assets/image_Sideris.1png)
+![alt text](./assets/image_Sideris1.png)
 
 
 
