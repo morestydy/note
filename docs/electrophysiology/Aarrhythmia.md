@@ -654,19 +654,19 @@
 
 **三腔心位**相当于在横断位的基础上，X线经过二尖瓣和主动脉瓣之间的交界处射入得到。三腔心位可以见到左心房、左心室、二尖瓣和近端升主动脉。
 
-<img src="./assets/Heart13.jfif" alt="image-Heart13" style="zoom:100%;" />
+<img src=".\assets\heart13.jfif" alt="image-Heart13" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 三腔心位</center> 
 
 五腔心位和四腔心位类似，但还显示了主动脉瓣和左室流出道。五腔心位相当于是在四腔心位的基础上，X线入射角度稍微向头侧旋转。
 
-<img src="./assets/Heart14.jfif" alt="image-Heart14" style="zoom:100%;" />
+<img src=".\assets\Heart14.jfif" alt="image-Heart14" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 五腔心位</center> 
 
 二腔心位相当于是X线入射方向垂直于二尖瓣并平行于室间隔得到的投影。此断面概述了心房和二尖瓣。这是**分析心室功能的良好视图，尤其是下壁和前壁的功能**。为了获得功能数据，必须利用三腔心位和四腔心位重建连续的横断面图像。
 
-<img src="./assets/Heart15.jfif" alt="image-Heart15" style="zoom:100%;" />
+<img src=".\assets\Heart15.jfif" alt="image-Heart15" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 二腔心位</center> 
 
@@ -681,29 +681,29 @@
 
 将血液输送回右心房的另一个结构是**冠状窦**（冠状动脉的静脉回流），冠状静脉在下腔静脉的前面和左侧进入下腔静脉。
 
-<img src="./assets/Heart16.jfif" alt="image-Heart16" style="zoom:100%;" />
+<img src=".\assets\Heart16.jfif" alt="image-Heart16" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 心脏横轴位（左）和冠状斜向（右）重建，显示了右心房及其主要血管：冠状窦（蓝色箭头）以及上腔静脉和下腔静脉。IVC=下腔静脉，A表示患者的前方，SVC=上腔静脉</center> 
 
 右心房内有**界嵴**，这是一条从上腔静脉入口延伸到下腔静脉入口的肌肉脊。这种结构将右心房的光滑部分（静脉窦）与小梁化的右心耳分开。在左侧的图像中，可以看到它是一个平滑的线性结构（蓝色箭头）。
 
-<img src="./assets/Heart17.jfif" alt="image-Heart17" style="zoom:100%;" />
+<img src=".\assets\Heart17.jfif" alt="image-Heart17" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 心脏横轴位（左）和冠状（右）重建显示了界嵴（蓝色箭头）及其在右心房中的位置</center> 
 
 **冠状窦**是心肌的主要引流静脉，它在心脏后表面的房室沟中行进，并在三尖瓣附近进入右心房。
 
-<img src="./assets/Heart18.jfif" alt="image-Heart18" style="zoom:100%;" />
+<img src=".\assets\Heart18.jfif" alt="image-Heart18" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 心脏横轴位（左）和冠状斜位（右）重建显示冠状窦进入右心房（蓝色箭头）。A表示患者的前面，P表示患者的后面。</center> 
 
-<img src="./assets/Heart19.jfif" alt="image-Heart19" style="zoom:100%;" />
+<img src=".\assets\Heart19.jfif" alt="image-Heart19" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 重建图，显示了心脏后表面房室沟中冠状窦的走向</center> 
 
 **右心耳**是右心房的小梁化部分。它部分覆盖房室沟和在其中运行的右冠状动脉。其特点是**呈扁平三角形**，包含平行于心房本身的小肌束。
 
-<img src="./assets/Heart191.jfif" alt="image-Heart191" style="zoom:100%;" />
+<img src=".\assets\Heart191.jfif" alt="image-Heart191" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 心脏的横轴位（左）和3D 重建（右）显示右心耳（蓝色箭头）。Ao=主动脉，LA=左心房</center> 
 
@@ -713,41 +713,41 @@
 
 **右心室**的壁也更薄，小梁化程度更高，尤其是朝向心尖部。**隔缘肉柱**是右心室的另一个显着特征。它从室间隔延伸至右心室侧壁，在右心室游离壁（蓝色箭头）的电生理传导中发挥关键作用。
 
-<img src="./assets/Heart192.jfif" alt="image-Heart192" style="zoom:100%;" />
+<img src=".\assets\Heart192.jfif" alt="image-Heart192" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 显示右心室的横轴位（左）和矢状斜位（右）重建。蓝色箭头表示调节带。RA=右心房，RV=右心室，LV=左心室</center> 
 
 接下来，血液进入右心室光滑、肌肉发达的漏斗部，接着流向肺动脉瓣。**肺动脉瓣**有三个瓣，并通过称为室上嵴的厚肌肉与三尖瓣分开（左图中的蓝色箭头）。这与左心室流出道不同，左室流出道的二尖瓣和主动脉瓣几乎并排。
 
-<img src="./assets/Heart193.jfif" alt="image-Heart193" style="zoom:100%;" />
+<img src=".\assets\Heart193.jfif" alt="image-Heart193" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 重建显示三尖瓣 (TV) 和肺动脉瓣 (PV) 以及右心室 (RV) 腔。蓝色箭头表示室上嵴</center> 
 
-<img src="./assets/Heart194.jfif" alt="image-Heart194" style="zoom:50%;" />
+<img src=".\assets\Heart194.jfif" alt="image-Heart194" style="zoom:50%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 右心室的特征：隔缘肉柱，间隔乳头肌，漏斗部，右房室瓣和流出道无纤维连续性</center> 
 
 富氧血液通过肺静脉进入左心房。在大多数情况下，左侧有两条肺静脉，右侧也有两条肺静脉。右肺静脉中叶静脉血通常汇入上肺静脉。
 
-<img src="./assets/Heart195.jfif" alt="image-Heart195" style="zoom:100%;" />
+<img src=".\assets\Heart195.jfif" alt="image-Heart195" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 横轴位重建重建显示肺静脉（蓝色箭头）进入左心房</center> 
 
 然而，肺静脉解剖结构经常存在变化，特别是**右肺静脉的异常汇入**，异常汇入通常与心房颤动相关。
 
-<img src="./assets/Heart196.jfif" alt="image-Heart196" style="zoom:100%;" />
+<img src=".\assets\Heart196.jfif" alt="image-Heart196" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 3D 重建显示肺静脉进入左心房</center> 
 
 **左心耳**是手指状的小梁结构，起源于左心房的外侧。它位于左房室沟上方，并部分覆盖其中的左冠状动脉。**左心耳的肌肉小而平行，注意不要误认为是血栓**。
 
-<img src="./assets/Heart197.jfif" alt="image-Heart197" style="zoom:100%;" />
+<img src=".\assets\Heart197.jfif" alt="image-Heart197" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 轴向和 3D重建显示左心耳的形状和位置（黄色箭头）</center> 
 
 当评估冠状动脉时，必须切除左心耳，以便可以看到LCX和近端LAD。
 
-<img src="./assets/198.jfif" alt="image-198" style="zoom:100%;" />
+<img src=".\assets\198.jfif" alt="image-198" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline">3D重建显示左心耳切除后的左心耳（蓝色箭头）和左冠状动脉（黄色箭头）。A表示患者的前面，S表示患者的头端。</center> 
 
@@ -761,18 +761,18 @@
 
 正常情况下，左心室厚度均匀，舒张末期厚度在0.6 至1.0厘米之间变化。血液通过左心室流出道进入主动脉瓣。请注意，**二尖瓣和主动脉瓣之间有时存在纤维连接**。
 
-<img src="./assets/Heart199.jfif" alt="image-Heart199" style="zoom:100%;" />
+<img src=".\assets\Heart199.jfif" alt="image-Heart199" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 心脏的横轴位（左）重建、三腔心位（中）和冠状重建（右）显示了左心房、心室和主动脉根部之间的关系。LA=左心房，R=右冠状动脉窦，L=左冠状动脉窦，N=无冠状动脉窦，Ao=主动脉，LV=左心室</center> 
 
 与肺动脉瓣一样，主动脉瓣也有三个瓣。主动脉根部瓣膜靠上处有轻微扩张，即构成主动脉窦。在舒张期，主动脉窦充满血液，为冠状动脉提供富氧血液。
 
-<img src="./assets/Heart20.jfif" alt="image-Heart20" style="zoom:50%;" />
+<img src=".\assets\Heart20.jfif" alt="image-Heart20" style="zoom:50%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 三腔心位（左）和冠状（右）重建，同上</center> 
 
 主动脉瓣的每个窦根据其与冠状动脉的关系而命名，即右冠状动脉窦、左冠状动脉窦和无名动脉窦（R、L和N）。
 
-<img src="./assets/Heart211.jfif" alt="image-Heart211" style="zoom:100%;" />
+<img src=".\assets\Heart211.jfif" alt="image-Heart211" style="zoom:100%;" />
 
 <center style="font-size:14px;text-decoration:underline"> 心脏横轴位显示了主动脉瓣及其右冠状动脉窦、左冠状动脉窦（分别为R和L）和无名动脉窦（N）</center> 
