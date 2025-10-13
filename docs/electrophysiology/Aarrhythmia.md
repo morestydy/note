@@ -1,4 +1,4 @@
-<!-- [TOC] -->
+[TOC]
 
 # 病例
 
@@ -12,6 +12,10 @@
 
 静滴异丙肾上腺素(浓度1mg/500ml)，未诱发出房性快速性心律失常，未见肺静脉电传导恢复，行多部位心房S1S1频率递增刺激及S1S2程序刺激均未诱发出心动过速，未见房室结双经路观象。观察30分钟，复查肺静脉，未见电传导恢复，手术成功，拔除鞘管，局部压迫止血，加压包扎，送回病房。术中患者生命体征平稳，术后安返病房，嘱患者平卧位，注意患者伤口情况及生命体证。
 术后处理措施;注意伤口渗血情况。
+
+
+
+
 
 # CP房颤消融术流程
 
@@ -79,6 +83,29 @@
 
    全麻和静脉深度镇静麻醉
 
+## 12导联连接
+
++ 肢体导联：
+
+  	+ 右手：红（R）
+  	
+  	+ 左手：黄（L）
+  	
+  	+ 左脚：绿（F）
+  	
+  	+ 右脚：黑（N）
+
+ + 胸导联：
+
+   + （C1）V1：红色在体表的位置：胸骨右缘第四肋间
+   + （C2）V2：黄色在体表的位置：胸骨左缘第四肋间
+   + （C3）V3：绿色在体表的位置：V2，V4连线的中点
+   + （C4）V4：棕色在体表的位置：左锁骨中间第五肋间
+   + （C5）V5：黑色在体表的位置：左腋前线与V4同水平
+   + （C6）V6：紫色在体表的职位：左腋中线与V4导联同一水平
+
+<img src="./assets/image-20250918220543897.png" alt="image-20250918220543897" style="zoom:50%;" />
+
 ## 手术操作流程
 
 1. 等待患者心电、血压、氧饱和度监测
@@ -101,6 +128,7 @@
    **肺静脉造影**：
 
    	+ 非选择性造影时，需要能同时显示一侧肺静脉，建议每侧肺静脉都采用LAO和RAO双体位造影
+
     + 如果选择单体位非选择性造影
       + LPV：LAO45°-60°
       + RPV：RAO30°
@@ -459,8 +487,7 @@
 
 
 
-### 1. 房颤 {#af}
-参考 [房颤总论](#af1)
+### 1. 房颤{#af}
 
 ### 2. 房早
 
@@ -479,11 +506,275 @@
 
 
 
+## 总结
+
+![640 (1)](./assets/640.png)
+
+![640 (1)](./assets/640 (1).png)
+
+> P > 0.11s 左房大；肢体导联上> 0.25 mv，高尖，右房大
+>
+> QT 间期（正常0.32~0.44）一般采用 QTc 为标准，QTc = QT除以（R-R）的平方根，电脑会计算出来。
+>
+> QTc 延长的意义：男性 ≥ 0.45s，女性 >≥ 0.46s。
+>
+> QTc延长的意义：低钙，以及洋地黄、奎尼丁、胺碘酮、索他洛尔的影响或中毒。QTc缩短：高钙。
+>
+> 
+>
+> **记住这个很重要：窦房结、房室结、心室的自律性分别是：60～100、40～60、<40次/分。**
 
 
-## 房颤总论 {#af1}
+
+
+
++++
+
+## 房颤总论
 
 参考 [房颤](#af)
 
 
 
+### 房扑、房颤、房苏鉴别
+
+临床上假别AFL、AF、AT，往往是根据P波的频率，并界定以250次/分为界限，鉴别AFL和AF时往往是根据F（f）波的大小、频率和规则程度，并界定以350次/分为限。
+
+1. AT和AFL的本质区别
+
+   **AT**时，尽管心房的除极和复极过程都因房率较快而变得较短，但由于心房率还不是太快，以至除极和复极过程还都能达到完全的程度。也就是说，心房除极后还能回到静息电位状态，心电图表现为相邻的P-P之间存在等位线。这时的心房机械活动表现为，收缩和舒张都能圆满完成全过程。这种情况，是房速。
+
+
+
+
+
+
+
+
+
+# 病例
+
+
+
+## FARAPULSE
+
+1. 成都医学院第一附属医院院心血管内科**王沛坚主任团队**
+
+2. 女性患者，63岁，反复阵发性心悸10+年，先后两次在外院行房颤射频消融术。本次再发1周伴头晕入院；心电图提示心房颤动并伴快速心室率，门诊以“心房颤动”收入院。
+
+3. 心脏超声提示左房前后径37mm；食道超声提示左房及左心耳内未见血栓，房间隔未见明显连续中断。
+
+   <img src="./assets/image-20250921230853944.png" alt="image-20250921230853944" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline">肺静脉CTA</center> 
+
+<img src="./assets/image-20250921233918193.png" alt="image-20250921233918193" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline">食道超声</center> 
+
+<img src="./assets/image-20250921231306121.png" alt="image-20250921231306121" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 上台心电图</center> 
+
+<img src="./assets/image-20250921231736042.png" alt="image-20250921231736042" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline">（左上肺静脉4次网篮状+4次花瓣状消融）</center> 
+
+<img src="./assets/image-20250921231821066.png" alt="image-20250921231821066" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline">（左下肺静脉4次花瓣状+4次网篮状消融）</center> 
+
+<img src="./assets/image-20250921231900031.png" alt="image-20250921231900031" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline">（右上肺静脉4次花瓣状+4次网篮状消融）</center> 
+
+<img src="./assets/image-20250921232037623.png" alt="image-20250921232037623" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline"> （右下肺静脉4次网篮状+4次花瓣状消融）</center> 
+
+每支肺静脉首次放电即消除电位，1次放电2.5秒，共5组脉冲串；完成4支肺静脉电隔离后患者仍是房颤心律，于是决定行后壁BOX消融，以花瓣状对后壁进行均质化消融
+
+<img src="./assets/image-20250921232128848.png" alt="image-20250921232128848" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline">顶部线8次花瓣状消融+底部线8次花瓣状消融，每个位置放电2次，两个位置间重叠50%</center> 
+
+完成后壁BOX消融后患者由房颤转为房扑，CL-230ms；用CS1-2电极以201ms的频率拖带，PPI-TCL＞30ms，然后用CS5-6电极以210ms的频率拖带，拖带结束后房扑转房颤，结合此时CS电极的位置判断二尖瓣峡部大概率未参与折返；房颤持续几分钟后又转为CL-300ms,且CS9-0领先的房扑，但是不稳定，用CS9-0电极以270ms频率拖带，拖带后即刻转为房颤，于是决定将FARAWAVE导管撤至右房，对三尖瓣峡部进行消融治疗，同时隔离上腔静脉。
+
+<img src="./assets/image-20250921232542995.png" alt="image-20250921232542995" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline">CS1-2拖带</center> 
+
+<img src="./assets/image-20250921232640294.png" alt="image-20250921232640294" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline">CS5-6拖带</center> 
+
+<img src="./assets/image-20250921232727994.png" alt="image-20250921232727994" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline">CL300ms</center> 
+
+<img src="./assets/image-20250921232809376.png" alt="image-20250921232809376" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline">(4次花瓣状+2次网篮状放电)</center> 
+
+<img src="./assets/image-20250921232921968.png" alt="image-20250921232921968" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline"> （上腔静脉4次网篮状放电）</center> 
+
+​	上腔静脉放电结束后房颤自行终止。
+
+<img src="./assets/image-20250921233000186.png" alt="image-20250921233000186" style="zoom:50%;" />
+
+消融验证：三尖瓣峡部双向阻滞，上腔静脉完成电隔离，四支肺静脉完成电隔离；准备行左心耳封堵术。
+
+
+
+术后随访：患者术后1月仍维持窦性心律，无心悸头晕不适。
+
+
+
+
+
+# CTA影像解剖
+
+## 1. 心的方位
+
+> 右室并不完全位于右侧，而是位于**右前方**；左心室并不完全位于左侧，而是位于**左侧靠后**的位置。
+>
+> 
+>
+> 此外，心脏在纵隔内并不总是保持相同的位置，**年轻人的心轴**往往更**垂直**，而**老年人**的心脏往往停留在**横膈**上，**心轴往往更水平**。
+
+<img src="./assets/HeartCross.jfif" alt="image-20250921233000186" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 心脏横断位</center> 
+
+下图是四腔心位，相当于在横断位基础上，X线从心尖部向上射入得到。在四腔心位，右心室右心房旁边，左心室位于左心房旁边，同时可见二尖瓣进入视野。根据造影方案，三尖瓣有时可见。四腔心位的另一个特征是**心尖界限分明**。另外，心尖由左心室构成。
+
+<img src="./assets/Heart12.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 四腔心位</center> 
+
+**三腔心位**相当于在横断位的基础上，X线经过二尖瓣和主动脉瓣之间的交界处射入得到。三腔心位可以见到左心房、左心室、二尖瓣和近端升主动脉。
+
+<img src="./assets/Heart13.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 三腔心位</center> 
+
+五腔心位和四腔心位类似，但还显示了主动脉瓣和左室流出道。五腔心位相当于是在四腔心位的基础上，X线入射角度稍微向头侧旋转。
+
+<img src="./assets/Heart14.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 五腔心位</center> 
+
+二腔心位相当于是X线入射方向垂直于二尖瓣并平行于室间隔得到的投影。此断面概述了心房和二尖瓣。这是**分析心室功能的良好视图，尤其是下壁和前壁的功能**。为了获得功能数据，必须利用三腔心位和四腔心位重建连续的横断面图像。
+
+<img src="./assets/Heart15.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 二腔心位</center> 
+
+## 2. 心脏解剖
+
+正常情况下，手臂静脉注射后，造影剂将通过上腔静脉SVC到达右心房。右心房位于心脏的前外侧，并且位置相对左心房较低。
+
++ **上腔静脉**通过右心房顶部进入右心房。
++ **下腔静脉**进入右心房的位置稍微靠下一点，差不多是在房间隔位置进入右心房。
+
+
+
+将血液输送回右心房的另一个结构是**冠状窦**（冠状动脉的静脉回流），冠状静脉在下腔静脉的前面和左侧进入下腔静脉。
+
+<img src="./assets/Heart16.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 心脏横轴位（左）和冠状斜向（右）重建，显示了右心房及其主要血管：冠状窦（蓝色箭头）以及上腔静脉和下腔静脉。IVC=下腔静脉，A表示患者的前方，SVC=上腔静脉</center> 
+
+右心房内有**界嵴**，这是一条从上腔静脉入口延伸到下腔静脉入口的肌肉脊。这种结构将右心房的光滑部分（静脉窦）与小梁化的右心耳分开。在左侧的图像中，可以看到它是一个平滑的线性结构（蓝色箭头）。
+
+<img src="./assets/Heart17.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 心脏横轴位（左）和冠状（右）重建显示了界嵴（蓝色箭头）及其在右心房中的位置</center> 
+
+**冠状窦**是心肌的主要引流静脉，它在心脏后表面的房室沟中行进，并在三尖瓣附近进入右心房。
+
+<img src="./assets/Heart18.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 心脏横轴位（左）和冠状斜位（右）重建显示冠状窦进入右心房（蓝色箭头）。A表示患者的前面，P表示患者的后面。</center> 
+
+<img src="./assets/Heart19.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 重建图，显示了心脏后表面房室沟中冠状窦的走向</center> 
+
+**右心耳**是右心房的小梁化部分。它部分覆盖房室沟和在其中运行的右冠状动脉。其特点是**呈扁平三角形**，包含平行于心房本身的小肌束。
+
+<img src="./assets/Heart191.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 心脏的横轴位（左）和3D 重建（右）显示右心耳（蓝色箭头）。Ao=主动脉，LA=左心房</center> 
+
+血液通过**三尖瓣**从右心房进入右心室。该瓣膜具有**三个小叶和三个乳头肌**，它们部分**插入室间隔上**（与二尖瓣的乳头肌相反，二尖瓣的乳头肌不插入室间隔）。
+
+**右心室的形状与左心室不同**：左心室呈圆柱形，右心室的腔有效地包裹在左心室周围。
+
+**右心室**的壁也更薄，小梁化程度更高，尤其是朝向心尖部。**隔缘肉柱**是右心室的另一个显着特征。它从室间隔延伸至右心室侧壁，在右心室游离壁（蓝色箭头）的电生理传导中发挥关键作用。
+
+<img src="./assets/Heart192.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 显示右心室的横轴位（左）和矢状斜位（右）重建。蓝色箭头表示调节带。RA=右心房，RV=右心室，LV=左心室</center> 
+
+接下来，血液进入右心室光滑、肌肉发达的漏斗部，接着流向肺动脉瓣。**肺动脉瓣**有三个瓣，并通过称为室上嵴的厚肌肉与三尖瓣分开（左图中的蓝色箭头）。这与左心室流出道不同，左室流出道的二尖瓣和主动脉瓣几乎并排。
+
+<img src="./assets/Heart193.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 重建显示三尖瓣 (TV) 和肺动脉瓣 (PV) 以及右心室 (RV) 腔。蓝色箭头表示室上嵴</center> 
+
+<img src="./assets/Heart194.jfif" alt="image-20250921233000186" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 右心室的特征：隔缘肉柱，间隔乳头肌，漏斗部，右房室瓣和流出道无纤维连续性</center> 
+
+富氧血液通过肺静脉进入左心房。在大多数情况下，左侧有两条肺静脉，右侧也有两条肺静脉。右肺静脉中叶静脉血通常汇入上肺静脉。
+
+<img src="./assets/Heart195.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 横轴位重建重建显示肺静脉（蓝色箭头）进入左心房</center> 
+
+然而，肺静脉解剖结构经常存在变化，特别是**右肺静脉的异常汇入**，异常汇入通常与心房颤动相关。
+
+<img src="./assets/Heart196.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 3D 重建显示肺静脉进入左心房</center> 
+
+**左心耳**是手指状的小梁结构，起源于左心房的外侧。它位于左房室沟上方，并部分覆盖其中的左冠状动脉。**左心耳的肌肉小而平行，注意不要误认为是血栓**。
+
+<img src="./assets/Heart197.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 轴向和 3D重建显示左心耳的形状和位置（黄色箭头）</center> 
+
+当评估冠状动脉时，必须切除左心耳，以便可以看到LCX和近端LAD。
+
+<img src="./assets/198.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline">3D重建显示左心耳切除后的左心耳（蓝色箭头）和左冠状动脉（黄色箭头）。A表示患者的前面，S表示患者的头端。</center> 
+
+血液通过二尖瓣从左心房进入左心室。**二尖瓣**是一个复杂的瓣膜，由瓣环以及后叶和前叶组成。
+
+
+
+小叶通过称为腱索的绳状肌腱连接到乳头肌。乳头肌深入左心室的侧壁和后壁以及心尖。
+
+
+
+正常情况下，左心室厚度均匀，舒张末期厚度在0.6 至1.0厘米之间变化。血液通过左心室流出道进入主动脉瓣。请注意，**二尖瓣和主动脉瓣之间有时存在纤维连接**。
+
+<img src="./assets/Heart199.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 心脏的横轴位（左）重建、三腔心位（中）和冠状重建（右）显示了左心房、心室和主动脉根部之间的关系。LA=左心房，R=右冠状动脉窦，L=左冠状动脉窦，N=无冠状动脉窦，Ao=主动脉，LV=左心室</center> 
+
+与肺动脉瓣一样，主动脉瓣也有三个瓣。主动脉根部瓣膜靠上处有轻微扩张，即构成主动脉窦。在舒张期，主动脉窦充满血液，为冠状动脉提供富氧血液。
+
+<img src="./assets/Heart20.jfif" alt="image-20250921233000186" style="zoom:50%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 三腔心位（左）和冠状（右）重建，同上</center> 
+
+主动脉瓣的每个窦根据其与冠状动脉的关系而命名，即右冠状动脉窦、左冠状动脉窦和无名动脉窦（R、L和N）。
+
+<img src="./assets/Heart211.jfif" alt="image-20250921233000186" style="zoom:100%;" />
+
+<center style="font-size:14px;text-decoration:underline"> 心脏横轴位显示了主动脉瓣及其右冠状动脉窦、左冠状动脉窦（分别为R和L）和无名动脉窦（N）</center> 
