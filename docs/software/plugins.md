@@ -50,7 +50,7 @@ import { withMermaid } from "vitepress-plugin-mermaid";
 ---
 
 ```bash
-npm i vitepress-plugin-mathjax -D
+npm add -D markdown-it-mathjax3
 ```
 ::: code-group
 ```ts [.vitepress/config.ts]
