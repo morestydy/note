@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress';
 import { set_sidebar } from "../utils/auto-gen-sidebar.mjs";	// 改成自己的路径
 // import { backToTopPlugin } from '@vuepress/plugin-back-to-top';
 import { withMermaid } from "vitepress-plugin-mermaid";
+import footnote_plugin from 'markdown-it-footnote';
 
 
 
@@ -22,6 +23,10 @@ export default withMermaid({
       lazyLoading: true
     },
     lineNumbers: true,
+    config: (md) => {
+      // 使用更多的 Markdown-it 插件！
+      md.use(footnote_plugin)
+    },
   },
   mermaid: {
     // refer https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options
@@ -75,7 +80,8 @@ export default withMermaid({
             {text:"心脏解剖", link: "docs/electrophysiology/Cardiac-Anatomy.md"},
             {text:"基础心电图", link: "docs/electrophysiology/Cardiogram.md"},
             {text:"心律失常", link: "docs/electrophysiology/Aarrhythmia.md"},
-            {text:"左心耳封堵", link: "docs/electrophysiology/LAA.md"}
+            {text:"左心耳封堵", link: "docs/electrophysiology/LAA.md"},
+            {text:"论文笔记", link: "docs/electrophysiology/article-ice.md"},
           ]},
         ]
       },

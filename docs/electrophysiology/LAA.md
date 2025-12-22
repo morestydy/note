@@ -280,6 +280,28 @@ Occlutech公司左心耳封堵装置（Occlutech LAA occlusion device）采用�
 
 ![alt text](./assets/image_Sideris1.png)
 
+## CHA2DS2-VASc评分
+
+每个字母代表一项危险元素，具体评分如下：
+
+1. C（Congestive heart failure，充血性心力衰竭）： 1分
+2. H（Hypertension，高血压）：1分
+3. A2（Age$\geq$75岁）：2分
+4. D（Diabetes mellitus，糖尿病）：1分
+5. S2（Stroke/TIA/血栓史，卒中或短暂性脑缺血发作病史）：2分
+6. V（Vascular disease，血管疾病）：1分（如心肌梗死、外周动脉疾病、主动脉斑块）
+7. A（Age 65-74岁，年龄65-74岁）：1分
+8. Sc（Sex category，性别）：女性额外加1分
+
+$\geq$需要抗凝药物治疗；1分推荐抗凝，可阿司匹林或抗凝治疗。0分不推荐抗栓
+
+## DSA的测量
+
+测量方法（手动定标）：钢珠、鞘管
 
 
+## 左心耳介入影像
 
+## 左心耳测量方法
+
+## 型号选择
