@@ -1,6 +1,50 @@
 [[toc]]
 
-# 心脏电生理疾病分类
+
+
+# 1. 心脏解剖和传导系统
+
+
+![alt text](./assets/image1.GIF)
+
+
+<!-- 
+<div align=center>
+    <img src="./assets/Cardio1.png" alt="image-20250824172342514" width="20%;">
+    <img src="./assets/Cardio2.png" alt="image-20250824172342514" width="20%;">
+</div> -->
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 200px;">
+    <img src="./assets/Cardio1.png" alt="image-20250824172342514" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <img src="./assets/Cardio2.png" alt="image-20250824172342514" style="width: 84%; height: auto;">
+  </div>
+</div>
+
+心脏位于前方对胸骨体和第2-6肋软骨，约2/3位于正中线的左侧，约1/3位于正中线的右侧。两侧与胸膜腔和肺相邻，上方连出入心的大血管，下方为膈。
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 200px;">
+    <img src="./assets/Cardio3.png" alt="image-20250824172342514" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <img src="./assets/Cardio4.png" alt="image-20250824172342514" style="width: 90%; height: auto;">
+  </div>
+</div>
+
++ 右心房
+
+<img src="./assets/RA2.png" alt="image-RA" style="zoom:50%;" />
+
+右心房比左心房前、低，IVC-欧氏嵴-Todaro键-房室结快径区，此处有冠状窦口，附近Koch三角。
+
++ 左心房
+
+
+# 3. 心律失常概述
+## 心脏电生理疾病分类
 
 心率失常按位置分类：
 - 不适当窦性心动过速
@@ -86,3 +130,5 @@ PSVT分为双径路和旁道，发生机理为折返，频率150~220 bpm。
 
 > 💡 为什么室早室速QRS宽大畸形，房早房速QRS波正常？
 > 房早房速电信号通过房室结经希浦系统传入心室走的是高速通道，而室早室速电信号通过心肌细胞间传导速度慢
+
+
