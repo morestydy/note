@@ -4,8 +4,9 @@
 
 # 1. 心脏解剖和传导系统
 
+## 心脏解剖
 
-![alt text](./assets/image1.GIF)
+![alt text](./assets/image1.gif)
 
 
 <!-- 
@@ -41,6 +42,48 @@
 右心房比左心房前、低，IVC-欧氏嵴-Todaro键-房室结快径区，此处有冠状窦口，附近Koch三角。
 
 + 左心房
+
+<img src="./assets/LA.png" alt="image-RA" style="zoom:50%;" />
+
+## 心脏传导系统
+
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 200px;">
+    <img src="./assets/image14.gif" alt="image-20250824172342514" style="width: 80%; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <img src="./assets/image15.gif" alt="image-20250824172342514" style="width: 90%; height: auto;">
+  </div>
+</div>
+
+
+心脏的传导系统功能是发生冲动并传导到心脏的各个部位，使心房肌和心室肌按一定节律性收缩。冲动在窦房结形成后经节间束、房室结、HIS束、左右束支和浦肯野纤维网，最终抵达心室并使之激动。冲动在窦房结形成后，由右心房右上部经房间束（Bachmann束）传导到左心房。
+
+![alt text](./assets/image16.png)
+
++ 窦房结 60-100 bpm
+  + 心脏最主要的起搏位点
+  + 位于右房和上腔的交界处
++ 节间束
+  + 将窦房结发放的冲动传导到房室结
++ 房室结 40-60 bpm
+  + 管理房室传导
+  + 交通站：实际上延迟了房室的传导，使心房收缩后心室再收缩
++ 希式束
+  + 心室传导系统的开始
+  + 激动通过束支传导
+  + 使唯一的心房和心室之间的正常传导连接
++ 左右束支
+  + 传导激动到心室
++ 浦氏纤维网
+  + 整个心室传导的特殊细胞
+  + 三级起搏系统
+  + 20-40 bpm
+
+![alt text](./assets/image-cardioele.png)
+
+
 
 
 # 3. 心律失常概述
