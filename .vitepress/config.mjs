@@ -3,6 +3,7 @@ import { set_sidebar } from "../utils/auto-gen-sidebar.mjs";	// 改成自己的�
 // import { backToTopPlugin } from '@vuepress/plugin-back-to-top';
 import { withMermaid } from "vitepress-plugin-mermaid";
 import footnote_plugin from 'markdown-it-footnote';
+import markdownItTaskLists from 'markdown-it-task-lists';
 
 
 
@@ -22,10 +23,12 @@ export default withMermaid({
       // 默认禁用；设置为 true 可为所有图片启用懒加载。
       lazyLoading: true
     },
+        // 启用任务列表渲染
     lineNumbers: true,
     config: (md) => {
       // 使用更多的 Markdown-it 插件！
-      md.use(footnote_plugin)
+      md.use(footnote_plugin),
+      md.use(markdownItTaskLists)
     },
   },
   mermaid: {

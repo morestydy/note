@@ -6,7 +6,7 @@
 
 ## 心脏解剖
 
-![alt text](./assets/image-Cardic1.gif)
+![image-Cardic1.gif](./assets/image-Cardic1.gif)
 
 
 <!-- 
@@ -60,7 +60,7 @@
 
 心脏的传导系统功能是发生冲动并传导到心脏的各个部位，使心房肌和心室肌按一定节律性收缩。冲动在窦房结形成后经节间束、房室结、HIS束、左右束支和浦肯野纤维网，最终抵达心室并使之激动。冲动在窦房结形成后，由右心房右上部经房间束（Bachmann束）传导到左心房。
 
-![alt text](./assets/image16.png)
+![image16.png](./assets/image16.png)
 
 + 窦房结 60-100 bpm
   + 心脏最主要的起搏位点
@@ -81,7 +81,7 @@
   + 三级起搏系统
   + 20-40 bpm
 
-![alt text](./assets/image-cardioele.png)
+![image-cardioele.png](./assets/image-cardioele.png)
 
 # 2. 心脏电生理检查及腔内电图基础
 
@@ -92,14 +92,158 @@
 - [ ] 了解滤波的概念
 - [ ] 能清楚识别和测量各心内心电信号的传到剑气
 
+
 ## 电极导管的放置和记录
 
 心电生理检查时通常把电极导管分别放置在右房侧壁上部和下部（HRA），右室心尖部（RVA），冠状静脉窦（CS）和希式束区域（HBE）。也可根据需要将导管放置在新墙内的其他一些部位，进行左心导管术时应适当给与肝素抗凝。
+
+
 
   1. 右心房（RA）：通常采用下肢静脉穿刺的方式将记录电极经下腔静脉放置在右心房内。右房后壁高部与上腔静脉交接处（HRA）是最常用的记录和刺激部位。
   2. 右心室（RV）：与右心房电极类似，右心室电极多采用下腔静脉的穿刺途径。右室心间部（RVA）是最易辨认的，在此处进行记录和刺激的重复性最高。
   3. 左心房：左心房电活动的巨鹿和起搏较难。因冠状静脉窦围绕二尖瓣环走行，故通常采用将电极导管放置在冠状静脉窦的方式间接记录或起搏左房（CS）。采用自颈静脉的途径较易将电极导管成功送入位于右心房内后方的冠状静脉窦口，常用的冠状静脉窦导管为6级或10级的记录电极，根据各级的先后激动顺序可以协助定位左侧起源的心律失常。
   4. 希式束：位于房间隔的右房侧下部，冠状静脉窦的左上方，卵圆窝的左下方，靠近三尖瓣口的头侧。希式束是心房和心室间主要的或是唯一的传导途径，希式束电图（HBE）也是心脏电生理检查中不可缺少的组成部分。将电极导管经下肢静脉穿刺后送入右心房，在三尖瓣环口贴近间隔处可以记录到希式束电图。希式束电图由一组波群组成，其中心房电位波以A代表，希式束电位波由H代表，心室电位波由V代表。将希式束电图结合右心房和右心室记录的电位，可以测量出激动经心脏不同部位时的传到时间。
+
+![image-cardiocath.png](./assets/image-cardiocath.png)
+
+## 判断导管位置
+
++ RAO
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 200px;">
+    <img src="./assets/image-raocath.png" alt="image-20250824172342514" style="width: 70%; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <img src="./assets/image-raocath2.png" alt="image-20250824172342514" style="width: 60%; height: auto;">
+  </div>
+</div>
+
++ LAO
+
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 200px;">
+    <img src="./assets/image-laocath2.png" alt="image-20250824172342514" style="width: 60%; height: auto;">
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <img src="./assets/image-laocath.png" alt="image-20250824172342514" style="width: 37%; height: auto;">
+  </div>
+</div>
+
++ X线下标测导管的位置判断
+
+    <img src="./assets/image-Xcath.png" alt="image-20250824172342514" style="width: 84%; height: auto;">
+
+  首先判断体位，RAO或LAO或冠状窦的形态
+
+  第二部根据最低或最高的电极来依次判断
+
+  LAO：游离壁 or 间隔面
+
+  RAO： 前 or 后， 三尖瓣环靠前，上腔静脉靠后
+
+## 体表心电图（ECG）和腔内心电图（IEGM）
+
++ 单极
+  + 一个电极直接接触心墙，另一个电极位于身体便面或者放置于下腔静脉-原理心脏的位置
+  + 可以记录到心脏的所有活动（包括远场的激动）
++ 双极
+  + 在心腔内两个紧密排列的电极
+  + 可以记录到两个电极之间的所有激动所融合的波形
+
+**单极**
+
+<img src="./assets/image-singleelectrode.png" alt="image-20250824172342514" style="width: 50%; height: auto;">
+
+<img src="./assets/image-singleelectrode2.png" alt="image-20250824172342514" style="width: 50%; height: auto;">
+
+<img src="./assets/imagr-singleelectrode3.png" alt="image-20250824172342514" style="width: 50%; height: auto;">
+
+<img src="./assets/image-singleelectrode3.png" alt="image-20250824172342514" style="width: 50%; height: auto;">
+
+
+
+> 冲动靠近时记录到正电位，冲动远离电极时记录到负电位，斜率最大时到达电极处
+
+**双极**
+
+双极电图两个电极都在体内，一个心腔内记录电极作为负极参考电极，另一个心腔内记录点击为正极。
+
+<img src="./assets/image-doubleelectrode.png" alt="image-doubleelectrode" style="width: 50%; height: auto;">
+
+<img src="./assets/image-doubleelectrode1.png" alt="image-doubleelectrode1" style="width: 50%; height: auto;">
+
+<img src="./assets/image-doubleelectrode2.png" alt="image-doubleelectrode2" style="width: 50%; height: auto;">
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">激动方向对双电极电图的影像</center> 
+
+<img src="./assets/image-doubleelectrode3.png.jpg" alt="image-doubleelectrode3" style="width: 50%; height: auto;">
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">看单电极电图，电极1具有QS形态，表示激动从这里开始，电极2具有rS形态，表示它远离起源点，冲动向它传导</center> 
+
+
+**腔内心电图识别**
+
+1. 窦率
+
+<img src="./assets/image-nsr.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">窦率下A波最早，V波最晚</center>
+
+
+2. 腔内电图记录及走纸速度：体表心电图走纸速度是 25 mm/sec. 在电生理检查时， 走纸速度25 ~ 400 mm/sec
+
+3. HRA电位
+<img src="./assets/image-electralhra.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">腔内图A波与体表P波同步，由于靠近窦房结，窦率下A波最早</center>
+
+4. HIS电位
+
+<img src="./assets/image-electralhis.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
+<center style="font-size:14px;color:#000000;text-decoration:underline">可以通过希氏束记录电位A~H~V，评估心房，房室结，心室传导，在窦率下晚于HRA电位</center>
+
+5. CS电位
+
+<img src="./assets/image-electralcs.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
+<center style="font-size:14px;color:#000000;text-decoration:underline">CS可同步记录到A波和V波，导管位于左侧房室沟，在窦律下，CS的A波晚于HIS的A波，通常是最晚</center>
+
+6. RVA电位
+
+<img src="./assets/image-electralrva.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
+<center style="font-size:14px;color:#000000;text-decoration:underline">RVA电位与QRS波群同步V波，RVA的V波晚于CS的V波</center>
+
+7. 腔内电图的测量
+
+<img src="./assets/image-electraliegm.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
++ AH间期：
+  + 50-140 ms
+  + 自房间隔下部经房室结至希氏束的传导时间
+  + 在希氏束电图上自A波最早点至希氏束电位H波起始处
++ HV间期：
++ 35-55 ms
+  + 自希氏束起始点至体表心电图QRS波的最早起始处。代表希-浦系统内的传导时间
+  + 希氏束电极记录H波起始至最早的V或QRS波群起始
++ 窦性心律周长（SCL）：600-1200 ms or 50-100 bpm
+  + SCL:  高位右方（HRA）电极记录到相邻A-A距离
+<img src="./assets/image-electralscl.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
++ RR间期：600-1200 ms
+
++ VV间期：
+  <img src="./assets/image-electralvv.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+  + V-V:  右室电极记录到相邻V—V距离
+
+### 刺激
+
+> + 夺获: 电能量引起心肌除极/收缩的过程
+> + 刺激(起搏)阈值: 引起心肌收缩的最小电流（计量单位mA)；绝大多数电生理导管室采用起搏阈值2~4倍的刺激强度，通常<1mA
+> + 不应期：心肌组织一次电激动后阻止其再次兴奋的特性；通过观察组织对期前刺激（早搏）的反应可以测定心脏组织的不应期
+
+
+
+
+
 
 
 # 3. 心律失常概述
