@@ -240,6 +240,81 @@
 > + 刺激(起搏)阈值: 引起心肌收缩的最小电流（计量单位mA)；绝大多数电生理导管室采用起搏阈值2~4倍的刺激强度，通常<1mA
 > + 不应期：心肌组织一次电激动后阻止其再次兴奋的特性；通过观察组织对期前刺激（早搏）的反应可以测定心脏组织的不应期
 
+**心肌细胞有效不应期（ERP）：**
+  + 心肌细胞在此期间受刺激无响应（Na+通道的失活）
+  + 对应心肌细胞动作电位为0期、1期、2期、3期前一半
+  + 对应体表心电图为QRS起点至T波高峰
+
+  <img src="./assets/image-erp.png" alt="image-cardiocath" style="width: 20%; height: auto;">
+
+**相对不应期（RRP）:**
+  + 有一些细胞可以收到刺激（Na+通道部分开放）
+  + 对应动作电位为3期后半部分
+  + 对应体表心电图表现为T波降支
+  <img src="./assets/image-rrp.png" alt="image-cardiocath" style="width: 20%; height: auto;">
+
+> 在心室的复极过程中，相邻近的心肌组织存在着复极程序的差异。在易损期内，一部分心室肌已完全恢复了应激和传导的正常功能，而另一部分心肌，虽然也已恢复了应激功能，甚至它的应激状态是处于超常期，但是由于Na+通道并未完全恢复，在应激后这部位心肌的除极波小而缓慢，激动的传导速度也缓慢，也就是这样存在着一个单向传导阻滞区。如果恰恰此时有一个刺激（例如早搏），则极易引起一系列的折返激动，发生室性心动过速或室颤。
+
+
+## 电生理检查
+
+**相关术语：**
+1. S1、A1，H1、V1：基础刺激信号，基础起搏的心房波、HIS波和心室波
+2. S2、A2，H2、V2：期前刺激信号，期前刺激早搏的心房波、HIS波和心室波
+3. S1–S2, S2–S3, S3–S4: S1 和 S2, S2 和S3, S3 和 S4配对间期
+
+  <img src="./assets/image-electricalsimulus.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
+
+### 刺激方法
+1. 递增刺激（RAMP）
+  + 以周长相等的刺激作连续刺激（S1-S1）持续10～60s
+  + 以比前一次周长较短（频率较快）的周期作连续刺激。   如：500ms－400ms－350ms－300ms－280ms－260ms
+
+<img src="./assets/image-electricalramp.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
+
+
+2. 递增刺激（Extrastimulus Pacing）
+  + 指在基础起搏心律中引入单个或多个早搏(期前)刺激
+  + S1S2刺激：在S1S1刺激8次后，发放一个早搏刺激标记为S2 ，逐步减低S1S2的配对间期如：500/400ms.500/380ms.500/360ms.500/340ms至心律失常发作或不应期出现
+  
+<img src="./assets/image-ExtrastimulusPacing.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
+
+  + S1S2S3刺激：在S1S1刺激8次后，发放2个期前刺激，分别为S2和S3，逐步减低S2S3的配对间期为如500/280/280ms.500/280/270ms心律失常发作或不应期出现。
+  
+  <img src="./assets/image-PacingS1S2S3.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
+
+3. 短阵快速刺激(Burst刺激)
+  + 刺激频率在300bpm以上(周长小于200ms)
+  + 用于诱发或终止某些心动过速(如房扑、房颤)
+  + 注意：电生理检查时，心室慎用Burst刺激，易导致室颤。
+
+  <img src="./assets/image-burst.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
+### 阅读腔内心电图步骤
+
+1. 刺激那个导管或电极
+2. 起搏是否夺获，是否和夺获频率一致
+3. 是否诱发，传导顺序情况
+
+
+**判断刺激是否夺获：**
+  + 腔内或体表心电图记录到尖锐且高大的刺激信号（起搏钉）
+  + 如果刺激引起导管临近的心肌和心脏其他部位心肌除极，则产生夺获。相反，刺激未夺获。
+  <center><img src="./assets/image-pacing-capture.png" alt="image-cardiocath" style="width: 50%; height: auto;"></center>
+<center style="font-size:14px;color:#000000;text-decoration:underline">起搏RV，产生夺获</center>
+
+
+
+
+
+
+
+
+-----------------------
 
 
 

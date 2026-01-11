@@ -52,11 +52,63 @@ import { withMermaid } from "vitepress-plugin-mermaid";
 ```bash
 npm add -D markdown-it-mathjax3
 ```
+2. 配置
+---
 ::: code-group
-```ts [.vitepress/config.ts]
+```ts [vitepress/config.ts]
+// .vitepress/config.ts
 export default {
   markdown: {
     math: true
   }
 }
 ```
+:::
+
+## 3. 脚注
+
+1. install
+---
+
+```bash
+npm add -D markdown-it-footnote
+```
+2. 配置
+---
+::: code-group
+```ts [vitepress/config.ts]
+// .vitepress/config.ts
+export default {
+    config: (md) => {
+      // 使用更多的 Markdown-it 插件！
+      md.use(footnote_plugin)
+    },
+}
+```
+:::
+
+## 4. 任务列表
+
+
+1. install
+---
+
+```bash
+ markdown-it-task-lists
+```
+
+2. 配置
+::: code-group
+```ts [vitepress/config.ts]
+// vitepress/config.ts
+export default {
+    config: (md) => {
+      // 使用更多的 Markdown-it 插件！
+      md.use(markdownItTaskLists)
+    },
+}
+```
+
+:::
+
+
