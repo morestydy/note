@@ -53,7 +53,7 @@
 
 > 共有616名接受上腔静脉隔离（SVCI）的患者纳入分析（中心插图）。人群的基线特征见表1。平均年龄为65.48±10.83岁，192名（31.1%）为女性，415名（67.4%）患有持续性心房颤动。平均左心室射血分数为57.24%±8.89%，平均\(CHA_{2} DS_{2}\) -VASc评分为2.59±1.47。
 
-    <img src="./assets/image-baseline.png" alt="image-20250824172342514" style="width: 40%; height: auto;">
+  <img src="./assets/image-baseline.png" alt="image-20250824172342514" style="width: 40%; height: auto;">
 
 2. 手术特征
 

@@ -63,6 +63,7 @@ export default withMermaid({
           {text:"Markdown",link:"/docs/software/markdown-note"},
           {text:'常用软件',link:'/docs/software/softwarebackup'},
           {text:"vitepress插件", link:"/docs/software/plugins"},
+          {text:"ffmpeg剪辑视频", link:"/docs/software/ffmpeg"},
           {text:"LaTeX相关", items:[
             {text: 'LaTex安装',  link:"/docs/software/latexl"},
             {text: '参考文献',  link:"/docs/software/references"},
