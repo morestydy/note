@@ -1,8 +1,14 @@
 # 左心耳
+## 左心耳植入课程笔记
 
 
+
+
+
+## 不同类型的左心耳封堵器械
 [微信公众号-不同类型的左心耳封堵器械](https://mp.weixin.qq.com/s/hGfgDCvVlJAnhB6gO7pKHQ)
 
+[Case](./Case.md#巨大仙人掌型心耳单纯封堵一例丨病例学习)
 
 
 ![alt text](./assets/image_LAA.png)
