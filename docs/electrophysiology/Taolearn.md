@@ -258,10 +258,13 @@
 
 ## 电生理检查
 
+[电生理检查](./Electrophysiological.md#电生理检查)
+
 **相关术语：**
 1. S1、A1，H1、V1：基础刺激信号，基础起搏的心房波、HIS波和心室波
 2. S2、A2，H2、V2：期前刺激信号，期前刺激早搏的心房波、HIS波和心室波
 3. S1–S2, S2–S3, S3–S4: S1 和 S2, S2 和S3, S3 和 S4配对间期
+4. 文氏现象：指心脏传导系统任何部位的传导减慢，最后发生传导中断的传导阻滞现象
 
   <img src="./assets/image-electricalsimulus.png" alt="image-cardiocath" style="width: 50%; height: auto;">
 
@@ -294,6 +297,18 @@
 
   <img src="./assets/image-burst.png" alt="image-cardiocath" style="width: 50%; height: auto;">
 
+### 文氏现象
+
+图示：
+
++ S1 S2刺激
++ A CL  600ms
++ B CL  500ms
++ C AH逐渐延长至H脱落，AVN文氏现象
+
+<img src="./assets/image-electralwen.png" alt="image-cardiocath" style="width: 50%; height: auto;">
+
+S刺激下，AH间期逐渐延长直至脱落一个V波
 ### 阅读腔内心电图步骤
 
 1. 刺激那个导管或电极

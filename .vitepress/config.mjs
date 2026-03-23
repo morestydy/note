@@ -87,6 +87,7 @@ export default withMermaid({
             {text:"心律失常", link: "docs/electrophysiology/Aarrhythmia.md"},
             {text:"左心耳封堵", link: "docs/electrophysiology/LAA.md"},
             {text:"论文笔记", link: "docs/electrophysiology/article-ice.md"},
+            {text:"病例学习", link: "docs/electrophysiology/Case.md"},
           ]},
         ]
       },

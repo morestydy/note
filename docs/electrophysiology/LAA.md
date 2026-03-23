@@ -301,6 +301,8 @@ Occlutech公司左心耳封堵装置（Occlutech LAA occlusion device）采用�
 
 $\geq$需要抗凝药物治疗；1分推荐抗凝，可阿司匹林或抗凝治疗。0分不推荐抗栓
 
+
+
 ## DSA的测量
 
 测量方法（手动定标）：钢珠、鞘管
@@ -311,3 +313,186 @@ $\geq$需要抗凝药物治疗；1分推荐抗凝，可阿司匹林或抗凝治�
 ## 左心耳测量方法
 
 ## 型号选择
+
+## 左心耳标准植入流程和注意事项
+
+**1. 术前准备**
+
++ 设备：
+    + DSA机
+    + 监护及压力监测
+    + ACT监测仪器
++ 药品
+    + 肝素化生理盐水
+    + 肝素
+    + 利多卡因
+    + 造影剂
++ 常规耗材
+    + 股静脉穿刺套件
+    + 房间隔穿刺套件
+    + 加硬导丝（.35in，260cm）
+    +  5/6Fr小圈猪尾导管（110cm）
+    + 50-60 mL螺口注射器
+    + 环柄注射器
+    + 三联三通
+    + 输液延长管
+    + 加压盐水袋
+    + 缝合线
++ 备用耗材
+    + 心包穿刺套件
+    + 鱼精蛋白
+    + 16/18F大鞘
+    + 鳄嘴钳
+    + 鹅颈抓捕器
+    + 急救药品
++ LAA
+    + SeaLA左心耳封堵器输送系统
+    + SeaLA左心耳封堵器
+
+
+
+::: info 术前要点
++ ACT通常保持在250-350之间
+
+![alt text](./assets/image_3links.png)
+
++ 加硬导丝：260cm，常规使用BSC和Cordis两种
++ 猪尾：猪尾导管长度110cm，左心耳封堵术选用猪尾外径为5F或6F，小圈为宜
++ 左房压力监测：在左心耳封堵术中，左房压要求平均达于10mmHg方可手术，如压力偏小，可能造成心耳未完全充盈影响测量及负压带来的气栓风险
+:::
+
+**2. TEE/CT评估**
+
+**TEE评估：**
+
+1. 确认左心耳/左心房内无血栓/心包积液
+
+<!-- <video src="./assets/媒体1.mp4" controls="controls" width="400"></video> <video src="./assets/媒体2.mp4" controls="controls" width="400"></video> -->
+
+<div style="display: flex; gap: 10px;">
+  <video src="./assets/媒体1.mp4" controls="controls" width="400"></video>
+  <video src="./assets/媒体2.mp4" controls="controls" width="400"></video>
+</div>
+
++ 建议在术前48h内完成
++ 确认左房和左心耳内无血栓和高密度回声，可使用彩色多普勒
++ 了解心包积液基线
++ 
+
+---
+**CT评估：**
+MSCT检查建议：
++ 在术前24h完成
++ 建议使用参数（造影剂50-80mL，速率4-5 ml/s，追加30mL生理盐水，速率4-5ml/s，触发点设在主动脉，触发阈值100 Hu，触发后延迟10s屏气扫描，采用回顾性心电门控或前瞻性方式扫描，以收缩期相采集为主。第一期扫描结束后延迟30-60s 后进行第二次扫描），<span style="color: red;">用来评估左心耳内有无血栓。</span>
+
+心电图门控（ECG）CT血管造影评估LAA
++ 扫描时间应在<span style="color: red;">收缩期末期（约40s）</span>，显示LA压力最高，LAA扩张最大
++ 如果患者的血流动力学状态允许，应在<span style="color: red;">MSCT 前给予500 mL或以上的生理盐水</span>以扩大LA室，包括LAA。推荐CT重建层厚<1mm，房间隔0.5mm。
+
+
+**根据左心耳形态划分：**
+
+  <img src="./assets/image_LAA_1.png" alt="image-cardiocath" style="width: 60%; height: auto;">
+
+---
+**TEE评估：**
+
+通常在TEE下获得0-45-90-135四个角度二维下左心耳开口和深度的尺寸范围。也可在三维TEE下观看左心耳口部形态，对选伞也有一定的借鉴。一般来说，在TEE视角下，135°通常是长轴，可能获得心耳开口的长径。
+
+
+
+<div style="display: flex; gap: 10px;">
+<video src="./assets/媒体3.mp4" controls="controls" width="500"></video>
+<img src="./assets/image_LAA_2.png" alt="image-cardiocath" style="width: 40%; height: auto;">
+</div>
+
+**左心耳开口可为各种形态，-135°通常为长轴，-45°- 60°为短轴**
+
+---
+<br>
+<font size="7">CT测量</font>
+</br>
+</br>
+
+<img src="./assets/image_LAA_3.png" alt="image-cardiocath" style="width: 60%; height: auto;">
+
++ 左心耳的开口定义为左上肺静脉脊部与左回旋支连线处
++ 左心耳口部平面，通过测量得到左心耳口部的<span style="color: red;">形态、最小径、最大径、周长径、面积等参数</span>。
+
+**左心耳锚定区测量**
+
+<img src="./assets/image_LAA_4.png" alt="image-cardiocath" style="width: 60%; height: auto;">
+
++ 锚定区定义为心耳开口向内10-12mm处
++ 通过测量得到锚定区的<span style="color: red;">形态、最小径、最大径、周长径、面积等参数</span>。
+
+**左心耳着陆区形状及测量**
+
+<img src="./assets/image_LAA_5.png" alt="image-cardiocath" style="width: 60%; height: auto;">
+<img src="./assets/image_LAA_6.png" alt="image-cardiocath" style="width: 60%; height: auto;">
+
+
++ 着陆区定义为心耳开口向内10-12mm位置
++ 着落区平面（高于回旋支），通过测量得到着落区与开口平面<span style="color: red;">距离、角度、最小径、最大径、周长径、面积等参数，锚定区与开口夹角应 < 15°</span>。
++ 观察梳状肌分布
+
+---
+
+**TEE测量**
+
+
+<img src="./assets/image_LAA_7.png" alt="image-cardiocath" style="width: 60%; height: auto;">
+
++ 多角度TEE图像观察以下特征（0-135° 扫视）：
+    + 左心耳形状和大小，分叶数量和位置
+    + 封堵盘选择取决于左心耳开口的最大直径
++ 记录左心耳开口直径和锚定区直径（0-135° 扫视）
+    + 开口：测量从二尖瓣环与回旋支中点到肺静脉脊的位置（肺静脉脊太长者可测向脊下方）
+    + 锚定区为心耳开口向内10-12mm左右的平行线，但需位于回旋支后
+    
+---
+**房间隔穿刺**
+
+<img src="./assets/image_LAA_8.png" alt="image-cardiocath" style="width: 60%; height: auto;">
+
++ 根据LAA角度和位置类型确定的最佳经隔穿刺位置
++ 模拟导管走行并得到导管调弯角度
++ 得到左心耳与导管鞘的最佳轴向
+
+---
+**指导术中投照体位**
+
+<img src="./assets/image_LAA_9.png" alt="image-cardiocath" style="width: 60%; height: auto;">
+
++ 常规体位为<span style="color: red;">RAO30° CAU20°</span>，能更好地显示左心耳口部
++ 推荐投照体位，根据不同左心耳的形态，更好显示左心耳锚定盘和封堵盘的释放过程和轴向。
+***
+
+**3.术中操作过程**
+
+TEE引导房间隔穿刺
+
+<img src="./assets/image_LAA_10.png" alt="image-cardiocath" style="width: 60%; height: auto;">
+
++ 根据心耳形态和朝向选择穿刺位点
++ 推荐使用TEE双房图和主动脉短轴图指导穿刺位点
+
+DSA引导房间隔穿刺
+
+1. 后前位透视下将鞘管送至上腔静脉
+2. 经鞘管送入房间隔穿刺针（头端不超过鞘管，指示器指向12点钟），推注少量造影剂
+3. 顺钟向旋转穿刺针和鞘管，至指示器指向4－5点钟
+4. 后前位透视下缓慢回撤鞘管和穿刺针，直至鞘管尖端落入卵圆窝，（影像上有落空感）
+5. RAO位透视下调整鞘管头端的前后方向，轻轻整体推送鞘管，使扩张管尖端顶紧卵圆孔
+6. 前送穿刺针，推注造影剂证实针尖已在左房内
+7. 整体推送鞘管，使扩张管尖端位于左房
+8. 固定穿刺针，推送扩张管，使其尖端覆盖穿刺针
+9. 固定扩张管及穿刺针，推送外鞘管进入左房
+10. 固定外鞘管，将扩张管和穿刺针一并撤出体外 
+
+
+
+<img src="./assets/image_LAA_11.png" alt="image-cardiocath" style="width: 60%; height: auto;">
+
+右前斜位看方向：穿刺针及鞘管远端弧度消失呈直线或接近直线状，此即为理想的穿刺点。
+
