@@ -66,12 +66,104 @@ STABLE-SR II研究比较了STABLE-SR术式与单纯肺静脉隔离的临床结�
 
 **顶部线解剖位置**
 
+房顶部线的定义为：房顶部是指两上肺静脉之间的区域，房顶线是指两上肺静脉之间的连线，该线尽可能地靠近左心房最顶端。
+
 <div align=center><img src="./assets/image_special4.png" alt="image-20250921232037623" style="zoom:80%;" /></div>
 
 **操作建议**
 
+::: danger 操作方法
+1. 若房顶线短于3cm时，可采用<span style="color: red;">花瓣后旋法</span>完成顶部消融，即右上肺前庭消融时充分逆转鞘管，左上肺前庭消融时充分顺转鞘管，使花瓣充分贴靠后壁，完成后壁消融。
+2. 若房顶线长于3cm时，可采用<span style="color: red;">花瓣后旋法+网篮侧贴法</span>完成顶部消融。即完成上述花瓣后旋操作后，辅助下列操作：
+   1. 将导丝送人LSPV，导管调整成网篮状，借助鞘管使导管的部分杆身侧贴房顶。
+   2. 将导丝送人RSPV，导管调整成网篮状，借助鞘管使导管的部分杆身侧贴房顶。
+   3. 通过鞘管打弯or松弯、前送or后退来调整导管在顶部的不同位置。
+
+消融策略：根据导管的形态决定消融参数
+:::
+
+<img src="./assets/image-fararoofline.png" alt="image-20250921232037623" style="zoom:80%;" />
+
+::: info faraware建议
+在导丝位于上肺静脉后，首先将导管呈花瓣状放置，并将可操控鞘管旋转至后壁，进行锚定消融。然后，在导丝回撤至导管内的情况下，以花瓣状重叠消融覆盖左上肺静脉（LSPV）和右上肺静脉（RSPV）锚定病灶之间的剩余距离（图 2）。一次消融包括四次花瓣状消融，在完成前两次消融后将装置旋转30°–40°以实现环周覆盖。在后壁更下方的位置，以相同方式进行另一组消融，以完成左肺静脉后壁（LAPW）隔离（图 1）。通过三维电解剖标测（3D-EAM）确认LAPW已完全隔离，后壁上无残留信号。如果仍有残留信号，则重复脉冲场消融（PFA）直至LAPW完全隔离[^2]。
+:::
+
+**顶部线验证：**
+
+。。。
 
 
+## 二尖瓣峡部线
+
+二尖瓣峡部定位：经典的二尖瓣峡部线是指左前斜（LAO45°）时二尖瓣环3-4点钟区域至左下肺静脉前庭之间的连线。
+
+<img src="./assets/image-mianatomy.png" alt="image-20250921232037623" style="zoom:80%;" />
+
+
+**操作方法：**
+::: danger 操作方法
+1. 根据DSA影像和CS电极可确定二尖瓣峡部的位置，必要时可造影或辅助三维
+2. 将导管打成花瓣形状，导丝送入左下肺，向下打弯直至看到大V，回撤导丝保留软端在导管头部，缓慢松弯至小V大A，使用2000V电压依次松弯开始消融，每个位置2次。
+3. 通过松弯鞘管从心室侧消融至左下肺前庭（无电位处）完成二峡线消融。
+
+根据二峡线长度确认消融几个位置，每个位置两次。
+
+**并发症预防：**
+1. 消融位置不宜过高，避免出现冠脉痉挛。为避免CTI消融期间冠状动脉痉挛，建议采取预防性硝化甘油治疗方案：
+    + 国外版本：首次PFA施用前1分钟注射3毫克，病灶形成前每2分钟追加2毫克。18静脉内升压药（如苯肾上腺素）的同时给药有助于避免低血压[^3]。
+    + 国内版本：给药时机：消融开始前 1-2 分钟给予硝酸甘油。给药方式与剂量：静脉推注：0.25 mg～0.5 mg；或冠脉内注射：0.2 mg（需经导管到位后给药）。循环支持：若出现血压下降（收缩压<90 mmHg），可联合去甲肾上腺素维持灌注压力。
+
+
+2. 靠近二尖瓣时，应随时注意电位，避免出现大V波消融，图[^4]。
+3. 消融前应准备好除颤贴片。如出现导管滑落到心室放电，出现室颤及时进行除颤。
+
+:::
+
+
+<img src="./assets/image-mi1.jpg" alt="image-20250921232037623" style="zoom:40%;" />
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> 图：（A）左前斜30°视角;（B）左侧斜视30°视角，配合计算机断层重建。五针管法拉波导管位于二尖瓣动脉，处于花式。红色箭头代表在冠状窦与左下肺静脉之间消融过程中导管的不同位置。</center>
+<img src="./assets/image-mi2.png" alt="image-20250921232037623" style="zoom:60%;" />
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> 图：以LAO45°体位消融二尖瓣峡部经典线时X线下的导管形态。A.导管先以90°~180°弯度弓行贴靠于起点处（LAO45°时二尖瓣环3~4点钟区域）；导管应适当松弯，保持鞘管和导管同轴且鞘管高度不变，使导管逐渐松弯且保持顺时针的力量逐渐回撤至图B、C，消融终点左下肺静脉前下壁。</center>
+
+
+<font size=5  font-weight=bold>验证方法</font>   
+
+
+::: warning 验证方法1：
+方法一[^5]：
+
+将PV放置于左心耳处，PV导管和CS分别位于二尖瓣峡部消融线两侧，分别起搏CS近端和远端，测量CS电极近端和远端到PV导管的电位传导时间。
+
+二尖瓣峡部未阻滞时，CS远端至左心耳的传导时间短于CS近端至左心耳的传导时间；
+
+如果CS远端至左心耳的传导时间长于CS近端至左心耳的传到时间，则说明二尖瓣峡部阻滞。
+
+起搏左心耳时，如果CS的激动顺序由近端传向远端，则说明二尖瓣峡部线阻滞。反之，则说明二尖瓣峡部线未阻滞。
+
+<center><img src="./assets/image-mi4.png" alt="image-20250921232037623" style="zoom:20%;" /></center>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> 图：LASSO位于左心耳内并起搏，可见两次起搏CS的激动顺序为CS12领先，说明左心耳激动顺序优先传导至CS12，二尖瓣峡部线未阻断。随着消融过程延长冠状窦激动顺序变为CS90领先，说明左心耳激动顺序优先传导至CS90，二尖瓣峡部线阻断。</center>
+:::
+
+
+::: warning 验证方法2：
+方法二[^6]：
+
+导管于左心房后下壁取两点，一点距二尖瓣峡部线较劲（A点），另一点较A点距二尖瓣峡部线远（B点），分别于A、B两点起搏导管远端，测量A、B两点到左心耳的电位传导时间。未行二尖瓣峡部消融时，A点距左心耳较近，因此A点至左心耳的传导时间短于B点至左心耳的传导时间；而二尖瓣峡部线阻滞后，A点的刺激信号无法直接通过二尖瓣峡部传导至左心耳，而只能通过房顶部或间隔部传导至左心耳，因此A点至左心耳的传导时间长于B点至左心耳的传导时间。
+
+同样原理。起搏左心耳，如果左心耳的刺激信号至A点的传导时间长于左心耳至B点的传导时间，说明二尖瓣峡部线阻滞。如果两种情况均存在，说明二尖瓣峡部线双向阻滞。
+
+<center><img src="./assets/image-mi5.png" alt="image-20250921232037623" style="zoom:50%;" /></center>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> 图：左心房解剖图（Carto 3；Biosense Webster）的后前位 (PA) 和左侧位 (LL) 视图。图中用白点标记同侧右肺静脉 (RPV) 和左肺静脉 (LPV) 的开口。黄点指示通过选择性血管造影（如图 1所示）显示的左心耳 (LAA) 后基底部。红点标示了二尖瓣峡部线的两种潜在设计。上外侧二尖瓣峡部线 (MIL) (A) 是通过在 LAA 开口后基底部下方绘制一条水平线性病灶，将围绕同侧左肺静脉 (PV) 的宽环形病灶的前上部与二尖瓣后环连接起来而形成的。线 B 是传统的 MIL 设计，连接左下肺静脉与二尖瓣环。</center>
+
+<center><img src="./assets/image-mi6.png" alt="image-20250921232037623" style="zoom:20%;" /></center>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> 图：导管于左心房后下壁取两点，一点距二尖瓣峡部线较近(A点);另一点较A点距二尖瓣峡部线部线远(B点)，分别于A、B两点起搏导管远端，测量A、B两点距左心耳的电位传导时间</center>
+:::
+
+CASE：
+
+
+<img src="./assets/image-mi3.jpg" alt="image-20250921232037623" style="zoom:40%;" />
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> 图：（A）前壁起搏时的前后视图及计算机断层重建。（B）左肢起搏时的前后视图及计算机断层重建。（C，D）在差速起搏时，离心激活进入冠状窦，两位置相差40毫秒，确认完全阻滞。CS 1-2 = 远端冠状窦;CS 3-4 = 近端冠状动脉窦。</center>
 
 
 迷走神经反应定义：在脉冲电场施加期间或紧接发生窦性心动过缓（<40 bpm）、心脏停搏或房室阻滞的情况下，已确认手术内迷走神经反应。确定了迷走神经反应的频率和最大停顿时长（即最大RR间隔）。临时备份配速根据操作员的偏好执行[^1]。
@@ -80,3 +172,8 @@ STABLE-SR II研究比较了STABLE-SR术式与单纯肺静脉隔离的临床结�
 
 
 [^1]: DEL MONTE A, DELLA ROCCA D G, PANNONE L, 等. Pulsed field ablation of the right superior pulmonary vein prevents vagal responses via anterior right ganglionated plexus modulation[J/OL]. Heart Rhythm, 2024, 21(6): 780-787[2025-11-24]. DOI:10.1016/j.hrthm.2024.01.040.
+[^2]: Kueffer T, Seiler J, Madaffari A, 等. Pulsed-field ablation for the treatment of left atrial reentry tachycardia. J Interv Card Electrophysiol, 2023, 66(6): 1431～1440
+[^3]: REDDY V Y, GERSTENFELD E P, SCHMIDT B, 等. Pulsed Field Ablation of Persistent Atrial Fibrillation With Continuous Electrocardiographic Monitoring Follow-Up: ADVANTAGE AF Phase 2[J/OL]. Circulation, 2025, 152(1): 27-40[2026-04-17]. DOI:10.1161/circulationaha.125.074485.
+[^4]: LA FAZIA V M, MOHANTY S, GIANNI C, 等. Feasibility and Safety of Pulsed Field Ablation for Coronary Sinus and Left Atrial Appendage Isolation and Mitral Isthmus Ablation: Acute and Chronic Findings[J/OL]. Circulation. Arrhythmia and electrophysiology, 2025, 18(9)
+[^5]: Miyazaki, S., Shah, A. J., Liu, X., Jadidi, A., Nault, I., Wright, M., … & Haïssaguerre, M. (2011). Preprocedural Clinical Parameters Determining Perimitral Conduction Time During Mitral Isthmus Line Ablation. Circulation Arrhythmia and Electrophysiology, 4(3), 287-294
+[^6]: MAURER T, METZNER A, HO S Y, 等. Catheter Ablation of the Superolateral Mitral Isthmus Line[J/OL]. Circulation: Arrhythmia and Electrophysiology, 2017, 10(10)[2026-04-19]. DOI:10.1161/circep.117.005191.
