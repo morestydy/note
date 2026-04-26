@@ -1,5 +1,110 @@
 <!-- [[toc]] -->
 
+
+## Case AF/L
+
+### 房颤合并房扑消融
+
+--from [微信公众号](https://mp.weixin.qq.com/s/PnDKyKHUVdn5JytvgJ8Mrw)
+
+1. 患者基本情况：
+
+   - 女性，77岁
+   - 心房颤动收治入院
+
+2. 术前超声：LA：41mm
+
+3. 肺静脉隔离：
+
+   ![image-caseaf1](./assets/image-caseaf1.png)
+
+   + LPV消融，肺静脉电位消失
+
+   `![image-caseaf2](./assets/image-caseaf2.png)
+
+   + RPV消融，肺静脉电位消失
+
+   <figure class="half">
+       <img src="./assets/image-caseaf3.png" width="400">
+       <img src="./assets/image-caseaf4.png" width="400">
+   </figure>
+
+   + 后壁BOX消融
+   + 顶部消融
+   + 底部消融
+
+   <figure class="half">
+       <img src="./assets/image-caseaf5.png" width="400">
+       <img src="./assets/image-caseaf6.png" width="400">
+   </figure>
+
+   + 二峡+CS内膜消融
+   + 消融前给与硝酸甘油预防冠脉痉挛
+
+   <img src="./assets/image-caseaf10.png" alt="image-caseaf7" style="zoom:75%;" />
+
+   + 电复律转窦
+
+   <img src="./assets/image-caseaf10.png" alt="image-caseaf7" style="zoom:75%;" />
+
+   <img src="./assets/image-caseaf9.png" alt="image-caseaf7" style="zoom:75%;" />
+
+   + CS34验证，导管在消融线心耳侧，起搏导管，CS90早，测量CS34和起搏间期为153ms，起搏CS34，到导管的距离为137ms，二峡实现双向阻滞
+
+   <img src="./assets/image-20260426131211329.png" alt="image-20260426131211329" style="zoom:80%;" />
+
+   + 消融线
+
+   <img src="./assets/image-caseaf15.png" alt="image-caseaf7" style="zoom:75%;" />
+
+   + 心房Burst刺激CS78 300ms
+
+   <img src="./assets/image-caseaf16.png" alt="image-caseaf7" style="zoom:75%;" />
+
+   + 心房Brust刺激，CS78 200ms时诱发CS90早的房扑
+
+   <img src="./assets/image-caseaf17.png" alt="image-caseaf7" style="zoom:75%;" />
+
+   + 体表导联下壁P波负向，V1双向，非典型房扑，周长240ms 左右
+
+   <img src="./assets/image-caseaf18.png" alt="image-caseaf7" style="zoom:75%;" />
+
+   + 拖带：CS34 进行拖带，PPI-TCL = 386-240 = 146ms>30ms
+
+   <img src="./assets/image-caseaf19.png" alt="image-caseaf7" style="zoom:75%;" />
+
+   + 拖带：CS90拖带，PPI-TCL = 375-240 = 135 > 30 ms
+   + CS34和90 均不在折返环上
+
+   <img src="./assets/image-caseaf20.png" alt="image-caseaf7" style="zoom:75%;" />
+
+   + 进行LA激动标测
+   + PV、PW和MI均无电位，仅AW和LAA有电位
+
+   ![640](./assets/640.gif)
+
+   + RA激动标测：结果显示右房后游离壁的折返
+
+   <img src="./assets/image-caseaf21.png" alt="image-caseaf7" style="zoom:75%;" />
+
+   + 后游离壁消融后房扑转窦
+   + 进行三峡消融
+
+   <figure class="half">
+       <img src="./assets/image-caseaf22.png" width="400">
+       <img src="./assets/image-caseaf23.png" width="400">
+   </figure>
+
+   + 验证三峡线阻滞：
+   + 导管在低位游离壁，起搏CS90，测量CS90到导管的距离为185ms
+   + 导管在中位游离壁，起搏CS90，测量CS90到导管的距离为164ms
+   + 导管在低位游离壁，起搏导管，测量导管到CS90的距离为190ms
+   + 导管在中位游离壁，起搏导管，测量导管到CS90的距离为158ms
+   + 右房中位到低位游离壁双向起搏验证，SA间期逐渐缩短，说明三峡实现双向阻滞
+
+
+
+
 # Case SVT
 
 ## 电生理检查
