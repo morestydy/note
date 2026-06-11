@@ -1,4 +1,4 @@
-[toc]
+[[toc]]
 
 # 特殊位置消融
 
@@ -161,9 +161,65 @@ STABLE-SR II研究比较了STABLE-SR术式与单纯肺静脉隔离的临床结�
 
 CASE：
 
-
 <img src="./assets/image-mi3.jpg" alt="image-20250921232037623" style="zoom:40%;" />
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> 图：（A）前壁起搏时的前后视图及计算机断层重建。（B）左肢起搏时的前后视图及计算机断层重建。（C，D）在差速起搏时，离心激活进入冠状窦，两位置相差40毫秒，确认完全阻滞。CS 1-2 = 远端冠状窦;CS 3-4 = 近端冠状动脉窦。</center>
+
+
+
+
+
+## 三尖瓣峡部线（CTI）
+
+**三峡线定位：**
+三尖瓣峡部是指三尖瓣环与下腔静脉之间的狭长区域。三尖瓣峡部线起点位于三尖瓣环6点附近，消融导管局部点位显示为“小A大V”。
+<img src="./assets/image-cti12.png" alt="image-20250921232037623" style="zoom:30%;" />
+
+**消融策略：**
+1. 根据DSA影像和CS \& RV 电极可确定三尖瓣及下腔的位置，可用三维标测辅助
+3. 将导丝送入到右心室，导管根据电位及影像情况送至三尖瓣（避免出现大V波放电），理想情况下为观察到电位出现小V波时，略微回撤导管，此时为理想放电位置。原因为记录电位为2-3电极，放电电极为123电极。如果电位记录到V波，那么1号电极此时可能会位于心室。
+3. 调整导管形态至<span style="color: red;">网篮形态、鞘管</span>打弯保证贴靠；消融完一个位置后，回撤导管消融至下腔。
+4. 根据三峡线长度确认消融几个位置，每个位置两次，PI800。
+
+
+**并发症预防：**
+
+1. 消融前给与<span style="color: red;">硝酸甘油</span>，避免出现一过性冠脉痉挛：
+> 对于 CTI 依赖性和二尖瓣环周围心房扑动，在心房扑动消融前预防性静脉给予硝酸甘油以降低冠状动脉血管痉挛的风险。硝酸甘油给药方案包括：靠近二尖瓣或三尖瓣环时静脉给予 3 mg，等待 2 分钟后进行 PFA放电，这为 PFA 放电提供了 2 到 3 分钟的时间窗。根据需要，可额外给予最多 3 次单独的 2 mg 剂量，并遵循类似的等待时间（2 分钟）和 PFA 放电时间窗（2-3 分钟）。为预防低血压而预先使用血管升压药由术者和麻醉团队决定。
+2. 消融位置应位于<span style="color: red;">三尖瓣环6-7点钟方向至下腔</span>；靠近游离壁侧有可能会出现冠脉痉挛；靠近间隔可能距离传导系统过近。
+
+
+
+**三尖瓣峡部线验证[^7]：**
+
+::: warning 验证方法1：
+
+LAO体位下，将导管放在阻滞线的游离侧，且紧贴阻滞线。起搏CS90电极，测量CP导管上电位距离。反过来，起搏导管，测量CS90到导管的电位距离。
+
+**Case:**
+
+<img src="./assets/image-cticase1.png" alt="image-20250921232037623" style="zoom:30%;" />
+
+<img src="./assets/image-cticase2.png" alt="image-20250921232037623" style="zoom:50%;" />
+
+对CTI进行5次PFA消融，房扑在第一个脉冲内终止，持续时间最长为468 ms。通过起搏CS 90验证CTI阻滞，CS90到导管A2电极的时间为172 ms。
+
+<img src="./assets/image-cticase3.png" alt="image-20250921232037623" style="zoom:50%;" />
+
+
+:::
+
+
+::: warning 验证方法2：
+
+应用导管在三尖瓣峡部线的游离壁侧取两点，一点距离峡部线较近（A点），位置偏低；另一点距峡部线较高（B点），分别在A、B两点起搏导管远端，测量A、B两点距冠状窦口（CS90）的电位传导时间，未行CTI时，A点距离冠状窦口较近，因此A点至CS90的传导时间短于B点至CS90的传导时间；当CTI阻滞后，A点的刺激信号无法直接通过三尖瓣峡部传导至冠状窦口，而只能通过游离壁传导至右房上部，再经间膈部传导至冠状窦口，因此A点至CS90的时间长于B点至CS90的时间。同样，起搏CS90，如果CS90到A点的传导时间长于左心耳至B点的传导时间，说明三尖瓣峡部阻滞。如果以上两种情况都存在，说明三尖瓣峡部双向阻滞。
+<div align="center">
+<img src="./assets/image-cticase4.png" alt="image-20250921232037623" style="zoom:80%;" />
+</div>
+:::
+
+
+
+
 
 
 迷走神经反应定义：在脉冲电场施加期间或紧接发生窦性心动过缓（<40 bpm）、心脏停搏或房室阻滞的情况下，已确认手术内迷走神经反应。确定了迷走神经反应的频率和最大停顿时长（即最大RR间隔）。临时备份配速根据操作员的偏好执行[^1]。
@@ -177,3 +233,4 @@ CASE：
 [^4]: LA FAZIA V M, MOHANTY S, GIANNI C, 等. Feasibility and Safety of Pulsed Field Ablation for Coronary Sinus and Left Atrial Appendage Isolation and Mitral Isthmus Ablation: Acute and Chronic Findings[J/OL]. Circulation. Arrhythmia and electrophysiology, 2025, 18(9)
 [^5]: Miyazaki, S., Shah, A. J., Liu, X., Jadidi, A., Nault, I., Wright, M., … & Haïssaguerre, M. (2011). Preprocedural Clinical Parameters Determining Perimitral Conduction Time During Mitral Isthmus Line Ablation. Circulation Arrhythmia and Electrophysiology, 4(3), 287-294
 [^6]: MAURER T, METZNER A, HO S Y, 等. Catheter Ablation of the Superolateral Mitral Isthmus Line[J/OL]. Circulation: Arrhythmia and Electrophysiology, 2017, 10(10)[2026-04-19]. DOI:10.1161/circep.117.005191.
+[^7]: Notaristefano F, Zingarini G, Cavallini C, 等. Typical Atrial Flutter Mapping and Ablation. Cardiac Electrophysiology Clinics, 2022, 14(3): 459～469
