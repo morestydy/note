@@ -193,7 +193,7 @@ CASE：
 
 ::: warning 验证方法1：
 
-LAO体位下，将导管放在阻滞线的游离侧，且紧贴阻滞线。起搏CS90电极，测量CP导管上电位距离。反过来，起搏导管，测量CS90到导管的电位距离。
+LAO体位下，将导管放在阻滞线的游离侧，且紧贴阻滞线。起搏CS90电极，测量CP导管上电位距离。反过来，起搏导管，测量CS90到导管的电位距离。一般认为双向大于120 ms为阻滞。
 
 **Case:**
 
@@ -220,6 +220,39 @@ LAO体位下，将导管放在阻滞线的游离侧，且紧贴阻滞线。起�
 
 
 
+## 上腔消融操作
+
+**上腔定位：**
+
+1. <span style="color: red;">通过上腔造影</span>，判断上腔与右房交界处；
+2. <span style="color: red;">通过电位判断</span>，上腔与右房交界处的电位是双电位；
+3. <span style="color: red;">花瓣变形定位发</span>，将导管打成花瓣状后从心房侧送向上腔，当花瓣出现形变时，可定位出上腔与右房的交界处；
+4. <span style="color: red;">参考RSPV造影</span>
+
+
+<img src="./assets/image-cticase5.png" alt="image-20250921232037623" style="zoom:60%;" />
+<img src="./assets/image-cticase6.png" alt="image-20250921232037623" style="zoom:60%;" />
+<img src="./assets/image-cticase7.png" alt="image-20250921232037623" style="zoom:60%;" />
+
+将导管放置再SVC内，缓慢向SVC推。此时可明显看到RA远场电位和SVC近场电位、和SVC的PAC早搏电位，使用PFA后SVC电位消失[^8]。
+
+
+
+**消融策略：“**
+
+$2 \times 2$，即消融两个位置（相差30°），每个位置消融两次，设置PI 750
+
+**并发症预防：**
+
+1. 膈神经损伤，以网篮状消融，调整电极恰好接触官腔，避免电极贴靠太紧、挤压管壁
+2. 窦房结损伤，三维标测判断窦房结位置，再窦房结上方约2cm消融。二维下，建议上腔和右房交界处（即窦房结所在位置）以上约2/3个锥体处进行消融。
+
+
+
+
+
+
+
 
 
 迷走神经反应定义：在脉冲电场施加期间或紧接发生窦性心动过缓（<40 bpm）、心脏停搏或房室阻滞的情况下，已确认手术内迷走神经反应。确定了迷走神经反应的频率和最大停顿时长（即最大RR间隔）。临时备份配速根据操作员的偏好执行[^1]。
@@ -234,3 +267,5 @@ LAO体位下，将导管放在阻滞线的游离侧，且紧贴阻滞线。起�
 [^5]: Miyazaki, S., Shah, A. J., Liu, X., Jadidi, A., Nault, I., Wright, M., … & Haïssaguerre, M. (2011). Preprocedural Clinical Parameters Determining Perimitral Conduction Time During Mitral Isthmus Line Ablation. Circulation Arrhythmia and Electrophysiology, 4(3), 287-294
 [^6]: MAURER T, METZNER A, HO S Y, 等. Catheter Ablation of the Superolateral Mitral Isthmus Line[J/OL]. Circulation: Arrhythmia and Electrophysiology, 2017, 10(10)[2026-04-19]. DOI:10.1161/circep.117.005191.
 [^7]: Notaristefano F, Zingarini G, Cavallini C, 等. Typical Atrial Flutter Mapping and Ablation. Cardiac Electrophysiology Clinics, 2022, 14(3): 459～469
+[^8]: Ollitrault P, Chaumont C, Font J, 等. Superior vena cava isolation using a pentaspline pulsed-field ablation catheter: feasibility and safety in patients undergoing atrial fibrillation catheter ablation. Europace, 2024, 26(7)
+  
