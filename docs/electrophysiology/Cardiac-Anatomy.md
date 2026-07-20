@@ -112,3 +112,20 @@ Koch三角底部冠状静脉窦，前面三尖瓣环，界脊、欧氏脊组成�
 <img src="./assets/image-Cardiac-Anatomy4.png" alt="alt text" width="66%" />
 
 
+
+## CT房间隔穿刺位点
+
++ 穿刺点要在卵圆窝范围内
++ 穿刺点过前容易进入主动脉
++ 穿刺点过后、过高和过低容易进入心包腔
+
+<img src="./assets/image-Cardiac-Anatomy5.png" alt="alt text" width="66%" />
+
++ CS导管可以帮助定位FO：
+
+<img src="./assets/image-Cardiac-Anatomy6.png" alt="alt text" width="66%" />
+
++ 将CS导管远端放至二尖瓣环的位置
++ CS导管远端的高度水平线即是卵圆窝的高低位置
+
+<img src="./assets/image-Cardiac-Anatomy7.png" alt="alt text" width="66%" />

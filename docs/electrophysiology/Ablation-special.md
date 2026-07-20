@@ -159,13 +159,16 @@ STABLE-SR II研究比较了STABLE-SR术式与单纯肺静脉隔离的临床结�
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> 图：导管于左心房后下壁取两点，一点距二尖瓣峡部线较近(A点);另一点较A点距二尖瓣峡部线部线远(B点)，分别于A、B两点起搏导管远端，测量A、B两点距左心耳的电位传导时间</center>
 :::
 
-CASE：
+**CASE1：**
 
 <img src="./assets/image-mi3.jpg" alt="image-20250921232037623" style="zoom:40%;" />
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> 图：（A）前壁起搏时的前后视图及计算机断层重建。（B）左肢起搏时的前后视图及计算机断层重建。（C，D）在差速起搏时，离心激活进入冠状窦，两位置相差40毫秒，确认完全阻滞。CS 1-2 = 远端冠状窦;CS 3-4 = 近端冠状动脉窦。</center>
 
+**Case2：Marshall 静脉酒精消融[^9]**
 
+<img src="./assets/image-mi7.png" alt="image-20250921232037623" style="zoom:80%;" />
 
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> Marshall静脉酒精消融：（A）心外膜和心内膜消融后，二尖瓣峡部（MI）未被阻滞（B）进行EIVOM消融时DSA图（C）在EIVOM期间，LAA持续起搏，最开始CS的激动顺序从CS远端（CS12）到CS近端（CS90）。当MI被阻滞时，CS激动顺序从CS近端到CS远端；（D）通过起搏冠状窦远端证实了MI阻滞，导管位于左心耳，左心耳的激动晚于冠状窦近端</center>
 
 
 ## 三尖瓣峡部线（CTI）
@@ -268,4 +271,4 @@ $2 \times 2$，即消融两个位置（相差30°），每个位置消融两次�
 [^6]: MAURER T, METZNER A, HO S Y, 等. Catheter Ablation of the Superolateral Mitral Isthmus Line[J/OL]. Circulation: Arrhythmia and Electrophysiology, 2017, 10(10)[2026-04-19]. DOI:10.1161/circep.117.005191.
 [^7]: Notaristefano F, Zingarini G, Cavallini C, 等. Typical Atrial Flutter Mapping and Ablation. Cardiac Electrophysiology Clinics, 2022, 14(3): 459～469
 [^8]: Ollitrault P, Chaumont C, Font J, 等. Superior vena cava isolation using a pentaspline pulsed-field ablation catheter: feasibility and safety in patients undergoing atrial fibrillation catheter ablation. Europace, 2024, 26(7)
-  
+[^9]: Sun Y, Dai S, Xiao X, 等. Tailored bi-atrial linear ablation guided by electrophysiological mapping for persistent atrial fibrillation. BMC Cardiovasc Disord, 2024, 24(1): 658

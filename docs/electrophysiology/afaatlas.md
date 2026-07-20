@@ -13,8 +13,9 @@
 > - 肺静脉-左心房传导阻滞的验证
 
 
+
 <img src="./assets/image-afaatlas1-1.png" alt="image-doubleelectrode3" style="width: 50%; height: auto;">
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">窦律下左右心房间的电连接</center> 
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">窦律下LA的激动顺序</center> 
 
 由[心脏解剖左心房](./Cardiac-Anatomy.md#3-左心房)右肺静脉开口直接位于房间隔上，右上肺静脉走行在上腔静脉后方，右下肺静脉向右后下走行，有时其间还有较小的中肺静脉。右肺静脉附近能产生电位的解剖结构有左心房、右心房和上腔静脉。
 
@@ -189,4 +190,19 @@ Marshall静脉/韧带周围有丰富的交感神经纤维，可能是此处易�
 
 :::
 
+
+
+## 二、PVI电位变化
+
+<div style="display: flex; justify-content: space-between;">
+
+  <img src="./assets/image-afaatlas1-24.png" alt="image-afaatlas1-5" style="width: 100%;">
+
+
+</div>
+  PV导管此时在LSPV，ABL行左侧PVI
+
+  1. 消融前LA电位、LAA电位和LSPV电位融合
+  2. 消融中LA电位和LAA电位融合，LSPV电位延迟
+  3. 消融后LA电位和LAA电位融合，LSPV电位消失
 
