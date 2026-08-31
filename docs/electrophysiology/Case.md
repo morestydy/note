@@ -507,9 +507,9 @@ S1S1 起搏（频率 100-150 次 / 分，持续 30 秒）后，停止起搏至�
 
 
 
-# Case LAA
+## Case LAA
 
-## [巨大仙人掌型心耳单纯封堵一例丨病例学习](https://www.cmtopdr.com/post/detail/1ac38d2a-237b-4dc8-bfd5-39f4d357b1a1.html)
+### [巨大仙人掌型心耳单纯封堵一例丨病例学习](https://www.cmtopdr.com/post/detail/1ac38d2a-237b-4dc8-bfd5-39f4d357b1a1.html)
 
 1. 病史
 患者男性，50岁
@@ -774,6 +774,184 @@ DSA心耳造影测量数据与食管超声测量数据可以综合参考，共�
 此例持续性房颤患者，左房增大，消融成功率较低，充分抗凝仍发生卒中，单纯封堵或是最佳获益方案随着患者年龄增大，合并其他疾病的增加，卒中风险急剧增加；药物经济学角度，一次封堵终身获益，患者获益远大于终身服用抗凝药；低龄患者，对生活质量要求更高，左心耳封堵术可以有效提高患者的生活质量，建立患者的生活信心。
 
 
+### [多分叶仙人掌型左心耳封堵联合射频消融一站式手术](https://mp.weixin.qq.com/s/qA_zG5N2A0oz7hkmQGBiWw)
+
+（一） 病史
+
+::: tip 病史
+患者为71岁女性， 主诉：胸闷气喘6天。
+
+既往有"脑梗死"病史数年；有"慢性胃炎"病史。
+
+房颤卒中危险度评分（CHA2DS2-VASc）和出血风险评分（HAS-BLED）：CHA2DS2-VASc = 6分，HAS-BLED = 4分。
+
+**心脏超声示**
+
+二尖瓣返流（少量），主动脉瓣返流（少量），三尖瓣返流（少量），左室舒张功能减低。左房前后径 35mm（<38mm），EF: 59%（52-72% ），心脏各房室腔大小形态正常。
+
+**动态心电图示**
+
+1. 窦性心动过缓
+2. 阵发性心房颤动伴室内差异性传导
+3. 电轴左偏
+4. 顺钟向转位
+5. 频发房性早搏（单发、成对、二联律、未下传、伴室内差异性传导）
+6. 室性早搏（单发 成对）
+7. ST改变
+:::
+
+（二） 术前CTA评估示
+
+CTA 多平面重建：锚定区15.0-16.0 mm，开口区24.0-25.5 mm。
+
+<img src="./assets/image-caselaa2cta1.gif" style="width: 60%; height: auto;">
+<br>
+<img src="./assets/image-caselaa2cta2.png" style="width: 60%; height: auto;">
+
+穿刺位点选择偏低、前后偏中间。
+
+<img src="./assets/image-caselaa2cta3.png" style="width: 60%; height: auto;">
+
+右肩位：锚定区18.0mm，开口区26.0mm
+
+<img src="./assets/image-caselaa2cta4.png" style="width: 60%; height: auto;">
+
+正足位：锚定区21.0mm，开口区26.0mm
+
+
+<img src="./assets/image-caselaa2cta5.png" style="width: 60%; height: auto;">
+
+肝位：锚定区18.0mm，开口区24.0mm
+
+<img src="./assets/image-caselaa2cta6.png" style="width: 60%; height: auto;">
+
+术前CTA评估，锚定区15.0-21.0mm，开口区24.0-26.0mm，多分叶仙人掌型左心耳，内部梳状肌非常发达，可能选择LAMax1830/2127/2430/2133型号左心耳进行封堵，结合术中造影再确定最终选型。左心耳开口偏前，走行轴向朝左前上方，建议穿刺位点选择偏低、前后偏中间，保证封堵双弯鞘轴向与左心耳轴向一致。
+
+**术前诊断：**
+
+1. 心律失常，阵发性房颤，窦性心动过缓，房性期前收缩，室性心动过速； 
+2. 冠状动脉硬化硬化性心脏病；
+3. 脑梗死个人史；
+4. 慢性胃炎
+5. 肺部感染；
+6. 心功能不全。
+
+（三） 手术过程
+
+左心耳封堵部分：
+
+送入猪尾导管至左心耳，多角度造影评估；
+
+术中多角度左心耳测量：
+
+右肩位造影测量：RAO30°CRAN20°
+锚定区：16.6 mm，开口区：27.0 mm
+
+<div style="display: flex; gap: 2px; flex-wrap: wrap; justify-content: left;">
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta7.gif" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta8.png" style="width: 100%; height: auto;">
+  </div>
+</div>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">左心耳右肩位造影</center>
+
+肝位RAO30°CAUD20°测量：
+
+锚定区：19.00 mm，开口区：28.0 mm
+
+
+<div style="display: flex; gap: 2px; flex-wrap: wrap; justify-content: left;">
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta9.gif" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta10.png" style="width: 100%; height: auto;">
+  </div>
+</div>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">左心耳肝位造影</center>
+
+测量不同体位下左心耳锚定区封堵区直径，选择LAMax 2133 Plus型号进行封堵，针对多分叶仙人掌形态左心耳，选择上叶进行锚定。
+
+<img src="./assets/image-caselaa2cta11.png" style="width: 60%; height: auto;">
+
+采用渐进式+退鞘法释放锚定伞，将锚定伞半打开，顺转或逆传鞘管调整轴向，将锚定伞推送至预期植入位置，造影示锚定位置理想与预想一致；
+
+<div style="display: flex; gap: 2px; flex-wrap: wrap; justify-content: left;">
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta12.gif" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta13.gif" style="width: 100%; height: auto;">
+  </div>
+</div>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">（左图）：锚定伞逐渐打开；（右图）：锚定伞完全打开后造影）</center>
+
+封堵盘完全打开，封堵盘表面呈新月形，肝位造影提示封堵盘封堵完全；
+
+<div style="display: flex; gap: 2px; flex-wrap: wrap; justify-content: left;">
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta14.gif" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta15.gif" style="width: 100%; height: auto;">
+  </div>
+</div>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">（左图）：打开封堵伞；（右图）：肝位造影评估封堵盘封堵完全 </center>
+
+行牵拉测试，LAMax封堵器再肝位DSA下牵拉15s，肝位造影评估锚定伞稳定无移位，固定良好，下缘有一丝残余分流，右肩位再次行牵拉测试，牵拉稳定，右肩位造影确认锚定牢固，封堵完全；
+
+<div style="display: flex; gap: 2px; flex-wrap: wrap; justify-content: left;">
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta16.gif" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta17.gif" style="width: 100%; height: auto;">
+  </div>
+</div>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">（左图）：肝位牵拉试验；（右图）：肝位牵拉后造影 </center>
+
+<div style="display: flex; gap: 2px; flex-wrap: wrap; justify-content: left;">
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta18.gif" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta19.gif" style="width: 100%; height: auto;">
+  </div>
+</div>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">（左图）：右肩位牵拉试验；（右图）：右肩位牵拉后造影 </center>
+
+肝位再次造影确认封堵效果，封堵器贴合左心耳口部紧密，无残余分流；
+
+<img src="./assets/image-caselaa2cta20.gif" style="width: 60%; height: auto;">
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">释放前再次肝位造影确认封堵效果 </center>
+
+逐释放封堵器：
+
+<img src="./assets/image-caselaa2cta21.gif" style="width: 60%; height: auto;">
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">释放封堵器 </center>
+
+释放后多角度造影检查，封堵器形态无变化，封堵效果满意。封堵后检查心影正常，无心包积液。
+
+<div style="display: flex; gap: 2px; flex-wrap: wrap; justify-content: left;">
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta22.gif" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 450px; /* 按需调整 */">
+    <img src="./assets/image-caselaa2cta23.gif" style="width: 100%; height: auto;">
+  </div>
+</div>
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">（左图）：封堵器释放后肝位造影；（右图）：封堵器释放后右肩位造影 </center>
+
+<img src="./assets/image-caselaa2cta24.gif" style="width: 60%; height: auto;">
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">左心耳封堵术后 </center>
+
+（四）术后总结
+
+:::tip 术后总结
+该患者71岁高龄合并冠心病、心功能不全、陈旧性脑梗等多种基础疾病，卒中（CHA2DS2-VASc 6分）与出血（HAS-BLED 4分）双风险评分均处于高风险水平，整体病情危重且复杂；同时患者存在阵发性房颤、多发早搏等心律失常，单纯药物抗凝不仅疗效有限，且无法根治病灶，出血及再卒中风险居高不下。针对这一难题，实施方房颤射频消融联合左心耳封堵一站式手术，可一次性根治心律失常并阻断左心耳这一主要血栓来源，有效规避远期高危风险。
+:::
 
 # 参考文献
 
